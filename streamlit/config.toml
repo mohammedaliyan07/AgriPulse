@@ -1,0 +1,13 @@
+# AgriPulse theme — matches the project report & dashboard palette
+[theme]
+base = "light"
+primaryColor = "#0F766E"
+backgroundColor = "#FAFAF9"
+secondaryBackgroundColor = "#F5F0E6"
+textColor = "#292524"
+
+[server]
+maxUploadSize = 50
+
+[browser]
+gatherUsageStats = false
