@@ -1,0 +1,27 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.python-version
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+.jupyter/
+
+# --- Streamlit ---
+.streamlit/secrets.toml
+*.env
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# NOTE: data/, outputs/ and docs/ are intentionally COMMITTED so the
+# Streamlit dashboard renders out-of-the-box and reviewers can inspect
+# the sanitised ledger without re-running the notebook.
