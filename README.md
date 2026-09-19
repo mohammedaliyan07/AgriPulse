@@ -3,7 +3,7 @@
 **Transforming agricultural trade logs into cooperative loyalty indices to predict smallholder disengagement and harvest-fulfilment risk.**
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-0F766E?logo=python&logoColor=white)](https://www.python.org)
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://agripulse-farmer-cropsupply-and-churnforecasting.streamlit.app/)
 [![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-6B7280)](LICENSE)
 [![SDG 1 & 2](https://img.shields.io/badge/UN_SDGs-1_%26_2-00A19D)](https://sdgs.un.org/goals)
