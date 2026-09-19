@@ -1,0 +1,9 @@
+gid,district,state,date_format_note,unit_preference
+BRD-YTM,Yavatmal,Maharashtra,DD/MM/YYYY,q
+BRD-AMT,Amravati,Maharashtra,DD/MM/YYYY,q
+BRD-NSK,Nashik,Maharashtra,MM/DD/YYYY (US-style export),kg
+BRD-AUR,Aurangabad,Maharashtra,DD/MM/YYYY + textual dates,kg
+BRD-IND,Indore,Madhya Pradesh,DD-MM-YYYY (dashed),kg
+BRD-UJN,Ujjain,Madhya Pradesh,DD/MM/YY (2-digit year),mixed
+BRD-DWS,Dewas,Madhya Pradesh,"MM/DD/YYYY, ~12% rows flipped",mixed
+BRD-RTL,Ratlam,Madhya Pradesh,DD/MM/YYYY,mixed

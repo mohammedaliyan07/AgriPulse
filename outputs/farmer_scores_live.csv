@@ -1,0 +1,540 @@
+farmer_id,village,district,state,main_crop,landholding_acres,recency_days,retention_t,retention_trend,monetary_12m,risk_prob,risk_tier,segment,drought_stress,recommended_action
+F01003,Ambodi,Yavatmal,Maharashtra,Cotton,1.47,68.0,0.5394605394605395,0.014791466055003921,139688.4,0.05817921343035498,Low,Stable,False,Monitor
+F01008,Ambodi,Yavatmal,Maharashtra,Cotton,1.43,44.0,0.7259713701431493,-0.09504885852879452,185831.69999999998,0.05201676725048307,Low,Loyal Core,False,Monitor
+F01009,Ambodi,Yavatmal,Maharashtra,Cotton,1.45,25.0,0.25862068965517243,-0.4509570652366917,82346.45,0.9114151787450889,Critical,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01013,Ambodi,Yavatmal,Maharashtra,Gram,2.83,53.0,0.5873096446700508,0.07047290997617317,181376.8,0.05090708387561673,Low,Loyal Core,False,Monitor
+F01020,Ambodi,Yavatmal,Maharashtra,Wheat,0.73,36.0,0.5178110480123904,0.08537861557995802,59663.8,0.05751822635632443,Low,Stable,False,Monitor
+F01021,Ambodi,Yavatmal,Maharashtra,Gram,2.25,18.0,0.7775200713648527,0.020720493862872225,401249.6,0.018590131050194948,Low,Champions,False,Monitor
+F01023,Chandur K,Yavatmal,Maharashtra,Cotton,1.81,48.0,0.7796735905044511,-0.0961653356700457,169367.85,0.04325891039137705,Low,Loyal Core,False,Monitor
+F01029,Chandur K,Yavatmal,Maharashtra,Cotton,2.34,64.0,0.6132789749563191,0.06001234752842033,166830.34999999998,0.04282792628665522,Low,Loyal Core,False,Monitor
+F01035,Chandur K,Yavatmal,Maharashtra,Wheat,1.03,59.0,0.7973273942093542,0.03429147300425561,174997.05,0.015070814593347682,Low,Loyal Core,False,Monitor
+F01037,Chandur K,Yavatmal,Maharashtra,Wheat,1.41,49.0,0.7759957230686982,-0.009912136009892603,245492.0,0.015070814593347682,Low,Loyal Core,False,Monitor
+F01044,Chandur K,Yavatmal,Maharashtra,Gram,3.99,23.0,0.7266072266541531,0.042458433088469416,627486.85,0.025662643085591942,Low,Champions,False,Monitor
+F01050,Dabha,Yavatmal,Maharashtra,Cotton,5.07,40.0,0.3026147959183673,-0.4519650237966662,317054.95,0.9180439666238768,Critical,Champions,False,Loyalty intervention: visit + advance-payment contract
+F01051,Dabha,Yavatmal,Maharashtra,Cotton,2.47,62.0,0.4579410402839945,-0.08656157751705251,215929.75,0.06406009431123585,Low,Loyal Core,False,Monitor
+F01064,Dabha,Yavatmal,Maharashtra,Cotton,5.0,21.0,0.7662125340599456,-0.09820362532024263,489402.8,0.017738886104461813,Low,Champions,False,Monitor
+F01071,Dabha,Yavatmal,Maharashtra,Cotton,1.78,27.0,0.56,-0.07984539704848914,177580.65,0.04943906876736292,Low,Loyal Core,False,Monitor
+F01079,Pardi,Yavatmal,Maharashtra,Cotton,1.84,44.0,0.5597532767925983,0.06699465610294314,168524.95,0.056816964084234665,Low,Loyal Core,False,Monitor
+F01081,Pardi,Yavatmal,Maharashtra,Wheat,2.69,28.0,0.8660762942779292,0.052482061528186574,398171.55000000005,0.02065862301134478,Low,Champions,False,Monitor
+F01082,Pardi,Yavatmal,Maharashtra,Cotton,1.53,22.0,0.9990393852065322,0.08491196138381751,164261.8,0.0645725114903197,Low,Champions,False,Monitor
+F01092,Pardi,Yavatmal,Maharashtra,Cotton,2.4,71.0,0.5823914336704343,0.039274550553551224,221112.90000000002,0.05010005584139347,Low,Loyal Core,False,Monitor
+F01098,Pardi,Yavatmal,Maharashtra,Cotton,1.37,30.0,0.8227311280746394,0.1478379149754463,226048.95,0.018590131050194948,Low,Champions,False,Monitor
+F01104,Sakarda,Yavatmal,Maharashtra,Gram,4.7,25.0,0.8764928633847948,-0.03927899549123359,690782.0,0.01918631546990878,Low,Champions,False,Monitor
+F01105,Sakarda,Yavatmal,Maharashtra,Gram,3.71,21.0,0.8536098923015557,-0.016131618088712774,546680.95,0.018590131050194948,Low,Champions,False,Monitor
+F01107,Sakarda,Yavatmal,Maharashtra,Cotton,2.8,71.0,0.8147379346133887,-0.008243431846238547,395969.5,0.015070814593347682,Low,Loyal Core,False,Monitor
+F01110,Sakarda,Yavatmal,Maharashtra,Gram,2.79,19.0,0.8185153824442563,0.006507508428508224,406910.5,0.018590131050194948,Low,Champions,False,Monitor
+F01111,Sakarda,Yavatmal,Maharashtra,Gram,2.47,58.0,0.7878260869565218,-0.11430622578268002,249624.40000000002,0.024177939468192043,Low,Loyal Core,False,Monitor
+F01112,Sakarda,Yavatmal,Maharashtra,Gram,3.76,48.0,0.8428870501445519,-0.07827968221650461,556165.65,0.03374180067455346,Low,Loyal Core,False,Monitor
+F01114,Sakarda,Yavatmal,Maharashtra,Gram,2.71,25.0,0.596292481977343,0.0666221523070133,185063.7,0.05020582160352697,Low,Loyal Core,False,Monitor
+F01116,Sakarda,Yavatmal,Maharashtra,Gram,2.2,18.0,0.8388814913448737,0.0865697344096028,199919.7,0.014743977204041102,Low,Champions,False,Monitor
+F01120,Sakarda,Yavatmal,Maharashtra,Wheat,3.05,55.0,0.900089092528955,0.028463162667105912,607673.8,0.025662643085591942,Low,Loyal Core,False,Monitor
+F01121,Sakarda,Yavatmal,Maharashtra,Cotton,1.06,81.0,0.503731343283582,-0.08796415844652183,105853.8,0.05817921343035498,Low,Stable,False,Monitor
+F01122,Sakarda,Yavatmal,Maharashtra,Cotton,0.79,29.0,0.5704600484261502,-0.021612618791025606,99654.15,0.027922598036724963,Low,Loyal Core,False,Monitor
+F01131,Vadki,Yavatmal,Maharashtra,Gram,1.98,29.0,0.8624390243902441,0.023924083249284078,382432.35,0.024774123887905876,Low,Champions,False,Monitor
+F01133,Vadki,Yavatmal,Maharashtra,Cotton,1.17,18.0,0.45146276595744683,-0.020047950195192954,119607.15,0.07131026901424076,Low,Loyal Core,False,Monitor
+F01139,Vadki,Yavatmal,Maharashtra,Cotton,1.55,22.0,0.8229789446321808,0.08420717561293234,205025.6,0.018590131050194948,Low,Champions,False,Monitor
+F01141,Vadki,Yavatmal,Maharashtra,Wheat,2.67,29.0,0.799083269671505,-0.07657683594539366,368743.85,0.015070814593347682,Low,Champions,False,Monitor
+F01147,Vadki,Yavatmal,Maharashtra,Gram,3.38,21.0,0.7913767537355996,-0.05001323422242543,668553.8,0.01918631546990878,Low,Champions,False,Monitor
+F01151,Vadki,Yavatmal,Maharashtra,Cotton,0.7,44.0,0.7520325203252034,-0.096452328159645,100152.15000000001,0.0379012765921482,Low,Loyal Core,False,Monitor
+F01152,Vadki,Yavatmal,Maharashtra,Gram,4.14,35.0,0.31902626521460603,-0.4349342908798008,288643.19999999995,0.8746504728627359,Critical,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01153,Vadki,Yavatmal,Maharashtra,Cotton,2.9,26.0,0.9231378763866879,0.1566048102544232,425563.1,0.02332669452245891,Low,Champions,False,Monitor
+F01158,Borgaon,Amravati,Maharashtra,Wheat,2.75,19.0,0.48783235691753046,-0.04080028819349413,135507.0,0.057804363848927426,Low,Loyal Core,False,Monitor
+F01160,Borgaon,Amravati,Maharashtra,Cotton,2.39,31.0,0.8650736181510984,0.08060808368556382,344967.5,0.015070814593347682,Low,Champions,False,Monitor
+F01163,Borgaon,Amravati,Maharashtra,Wheat,5.08,60.0,0.8196246755839489,-0.07359224852619228,482604.0,0.02065862301134478,Low,Loyal Core,False,Monitor
+F01164,Borgaon,Amravati,Maharashtra,Wheat,3.53,52.0,0.2661571466881201,-0.5106012630978125,203047.0,0.8746504728627359,Critical,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01165,Borgaon,Amravati,Maharashtra,Wheat,3.5,32.0,0.8178438661710038,0.16827393944274627,272960.0,0.011833374293438191,Low,Champions,False,Monitor
+F01169,Borgaon,Amravati,Maharashtra,Wheat,3.66,25.0,0.7285605483625286,-0.11852008185063168,309653.0,0.02065862301134478,Low,Champions,False,Monitor
+F01171,Borgaon,Amravati,Maharashtra,Wheat,1.7,34.0,0.8189488910318227,0.07820815029108186,199347.0,0.018590131050194948,Low,Loyal Core,False,Monitor
+F01176,Borgaon,Amravati,Maharashtra,Wheat,1.29,40.0,0.4741275571600481,-0.03616656048701078,112786.5,0.07131026901424076,Low,Loyal Core,False,Monitor
+F01179,Chikhali,Amravati,Maharashtra,Wheat,3.71,37.0,0.8540482573726542,-0.031121585212267155,734280.0,0.024774123887905876,Low,Champions,False,Monitor
+F01193,Chikhali,Amravati,Maharashtra,Wheat,5.21,75.0,0.7498874042936496,-0.03878662885552164,679032.0,0.02332669452245891,Low,Loyal Core,False,Monitor
+F01199,Chikhali,Amravati,Maharashtra,Wheat,3.9,56.0,0.23563959318149263,-0.3164503371541628,313444.0,0.975609756097561,Critical,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01203,Chikhali,Amravati,Maharashtra,Cotton,2.01,23.0,0.8816534541336354,0.016010459891792617,307155.5,0.03486941050912545,Low,Champions,False,Monitor
+F01207,Dhanora,Amravati,Maharashtra,Wheat,2.97,49.0,0.9500089589679269,0.03020849849210172,302874.0,0.022106052376791745,Low,Loyal Core,False,Monitor
+F01216,Dhanora,Amravati,Maharashtra,Wheat,2.09,18.0,0.8875989445910291,0.003603241046453265,207110.0,0.024774123887905876,Low,Champions,False,Monitor
+F01219,Dhanora,Amravati,Maharashtra,Wheat,3.04,28.0,0.19702135295173157,-0.34213645893335315,114105.5,1.0,Critical,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01223,Dhanora,Amravati,Maharashtra,Gram,7.31,23.0,0.9597376279863482,0.07392895231843655,1043205.0,0.027678772117850005,Low,Champions,False,Monitor
+F01235,Eklara,Amravati,Maharashtra,Wheat,2.37,42.0,0.49922343021965837,0.07421712822822901,182849.0,0.07131026901424076,Low,Loyal Core,False,Monitor
+F01236,Eklara,Amravati,Maharashtra,Wheat,2.88,25.0,0.787946136749902,-0.024271057820233644,381784.5,0.02065862301134478,Low,Champions,False,Monitor
+F01249,Eklara,Amravati,Maharashtra,Wheat,2.51,46.0,0.8286069995850049,-0.10606861562752301,371055.0,0.02065862301134478,Low,Champions,False,Monitor
+F01263,Fulsungi,Amravati,Maharashtra,Wheat,2.26,32.0,0.5964508708511338,-0.1934988778925848,255038.0,0.03934870595759517,Low,Champions,False,Loyalty intervention: visit + advance-payment contract
+F01264,Fulsungi,Amravati,Maharashtra,Wheat,1.47,77.0,0.8252990213845597,0.16203371526211074,116733.0,0.02332669452245891,Low,Stable,False,Monitor
+F01274,Fulsungi,Amravati,Maharashtra,Cotton,1.49,45.0,0.7326115485564305,0.010940746240467036,191362.0,0.02983291524694334,Low,Loyal Core,False,Monitor
+F01275,Fulsungi,Amravati,Maharashtra,Gram,1.64,28.0,0.19990669465826919,-0.3298052995087013,138302.0,0.9657508252897723,Critical,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01280,Wadner,Amravati,Maharashtra,Gram,4.93,22.0,0.8916679222540306,0.040798550876411266,697138.0,0.024177939468192043,Low,Champions,False,Monitor
+F01283,Wadner,Amravati,Maharashtra,Gram,1.29,20.0,0.4647630619684082,-0.0012145435440810148,92722.0,0.05817921343035498,Low,Loyal Core,False,Monitor
+F01285,Wadner,Amravati,Maharashtra,Wheat,4.75,20.0,0.517676492983792,0.01980214248780715,272288.0,0.04812912581864644,Low,Champions,False,Monitor
+F01288,Wadner,Amravati,Maharashtra,Wheat,3.17,73.0,0.7593546172330933,-0.12338631351076901,274584.0,0.014753111200321155,Low,Loyal Core,False,Monitor
+F01292,Wadner,Amravati,Maharashtra,Wheat,6.09,16.0,0.9257568940026999,0.0650310722280466,822235.0,0.025662643085591942,Low,Champions,False,Monitor
+F01293,Wadner,Amravati,Maharashtra,Wheat,3.09,29.0,0.4477464091134225,0.011634286798169524,147257.0,0.11371938563719386,Low,Loyal Core,False,Monitor
+F01296,Wadner,Amravati,Maharashtra,Wheat,3.21,32.0,0.7841701122268164,-0.014509755759982257,405339.5,0.014753111200321155,Low,Champions,False,Monitor
+F01297,Wadner,Amravati,Maharashtra,Wheat,1.79,51.0,0.5838133640552996,0.028329079257352063,106350.0,0.05086458313185371,Low,Stable,False,Monitor
+F01307,Dindori,Nashik,Maharashtra,Paddy,1.8,23.0,0.7285595337218984,0.5654261314468209,88876.2,0.05020582160352697,Low,Loyal Core,False,Monitor
+F01308,Dindori,Nashik,Maharashtra,Wheat,3.22,54.0,0.7667595476151451,0.5188940543798897,179379.85,0.05090708387561673,Low,Loyal Core,False,Monitor
+F01311,Dindori,Nashik,Maharashtra,Wheat,1.77,34.0,0.5674963396778917,0.4485899687725525,65372.75,0.05086458313185371,Low,Stable,False,Monitor
+F01312,Dindori,Nashik,Maharashtra,Paddy,3.03,75.0,0.8963228699551569,0.7259252263616369,168661.5,0.04598704058307829,Low,Stable,False,Monitor
+F01317,Dindori,Nashik,Maharashtra,Paddy,4.26,32.0,0.724246231155779,0.5242662993877678,227145.55,0.04212666401456546,Low,Champions,False,Monitor
+F01319,Dindori,Nashik,Maharashtra,Paddy,3.07,64.0,0.8798929407828705,0.673301180483245,190878.25,0.05020582160352697,Low,Loyal Core,False,Monitor
+F01320,Dindori,Nashik,Maharashtra,Wheat,3.73,21.0,0.14823893691136628,0.03449820925329493,57915.9,0.8371922550311297,Critical,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01329,Palkhed,Nashik,Maharashtra,Paddy,1.62,17.0,0.8591505309181762,0.7106802249793639,84054.75,0.05086458313185371,Low,Loyal Core,False,Monitor
+F01331,Palkhed,Nashik,Maharashtra,Paddy,4.44,50.0,0.8764509826456729,0.65697020579272,263210.35,0.02851878245643879,Low,Loyal Core,False,Monitor
+F01340,Palkhed,Nashik,Maharashtra,Paddy,5.18,45.0,0.5655430711610486,0.39954935200447617,207363.5,0.04004996822968493,Low,Loyal Core,False,Monitor
+F01347,Palkhed,Nashik,Maharashtra,Paddy,2.48,30.0,0.5020416496529195,0.4170470864053661,82890.9,0.05751822635632443,Low,Loyal Core,False,Monitor
+F01348,Palkhed,Nashik,Maharashtra,Paddy,3.26,61.0,0.3777664283282261,0.3107901022868716,72697.2,0.7008333333333333,Critical,Stable,False,Loyalty intervention: visit + advance-payment contract
+F01360,Ozar,Nashik,Maharashtra,Paddy,1.59,40.0,0.8676613687966266,0.6941440464243425,92222.5,0.04598704058307829,Low,Stable,False,Monitor
+F01362,Ozar,Nashik,Maharashtra,Paddy,3.95,29.0,0.9053044689201164,0.735309696311648,236376.7,0.033396325005214215,Low,Champions,False,Monitor
+F01364,Ozar,Nashik,Maharashtra,Paddy,2.9,73.0,0.9074074074074073,0.6932475483652801,184890.3,0.039959673612879734,Low,Stable,False,Monitor
+F01366,Ozar,Nashik,Maharashtra,Paddy,7.79,58.0,0.32083785249457697,0.20804845865512045,164988.15,0.6413095238095238,High,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01369,Ozar,Nashik,Maharashtra,Paddy,0.99,85.0,0.8669527896995708,0.6122358085674953,62953.2,0.0473492899291986,Low,Needs Attention,False,Monitor
+F01370,Ozar,Nashik,Maharashtra,Paddy,3.99,35.0,0.8306668373224114,0.6615174418129123,227945.2,0.03273756347688747,Low,Loyal Core,False,Monitor
+F01378,Vani,Nashik,Maharashtra,Wheat,4.06,79.0,0.9233623336745139,0.7401162603760847,242100.95,0.05086458313185371,Low,Loyal Core,False,Monitor
+F01379,Vani,Nashik,Maharashtra,Paddy,1.75,18.0,0.7879225657324472,0.5455678256712851,105901.8,0.051565845403943475,Low,Loyal Core,False,Monitor
+F01380,Vani,Nashik,Maharashtra,Wheat,1.34,40.0,0.7816561455625696,0.647022311216551,70475.4,0.05020582160352697,Low,Stable,False,Monitor
+F01385,Vani,Nashik,Maharashtra,Wheat,1.3,21.0,0.49463806970509383,0.380742013678555,38490.6,0.05817921343035498,Low,Loyal Core,False,Monitor
+F01386,Vani,Nashik,Maharashtra,Paddy,2.65,52.0,0.9840201850294364,0.8160349973505945,156895.0,0.05020582160352697,Low,Loyal Core,False,Monitor
+F01393,Vani,Nashik,Maharashtra,Paddy,2.95,25.0,0.39198829339674407,0.28080912034927086,82108.5,0.5400609178574751,High,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01394,Vani,Nashik,Maharashtra,Paddy,4.6,23.0,0.34805281260401644,0.16935414393722478,140217.25,0.7008333333333333,Critical,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01395,Vani,Nashik,Maharashtra,Paddy,0.79,84.0,0.8151260504201681,0.6725114494014923,40105.8,0.07640577332358155,Low,Needs Attention,False,Monitor
+F01396,Vani,Nashik,Maharashtra,Wheat,3.72,46.0,0.977902719665272,0.7076070838135591,281746.80000000005,0.04081672106584898,Low,Loyal Core,False,Monitor
+F01401,Vani,Nashik,Maharashtra,Paddy,2.19,57.0,0.8748810656517603,0.619193527902616,136404.8,0.03575792970681152,Low,Stable,False,Monitor
+F01409,Khedgaon,Nashik,Maharashtra,Paddy,5.51,50.0,0.6376181474480151,0.5122710323600793,231911.0,0.04873780649527316,Low,Loyal Core,False,Monitor
+F01412,Khedgaon,Nashik,Maharashtra,Wheat,4.13,42.0,0.8819481206987824,0.6405955135743632,232364.5,0.02851878245643879,Low,Loyal Core,False,Monitor
+F01414,Khedgaon,Nashik,Maharashtra,Wheat,3.31,31.0,0.5417150439542213,0.4249958010520131,124240.69999999998,0.05751822635632443,Low,Loyal Core,False,Monitor
+F01417,Khedgaon,Nashik,Maharashtra,Wheat,3.26,56.0,0.5767642305620398,0.5066654999555519,108451.9,0.06986390536867011,Low,Stable,False,Monitor
+F01419,Khedgaon,Nashik,Maharashtra,Paddy,2.2,59.0,0.9058682634730539,0.7897301095647525,130069.8,0.045848292516579264,Low,Stable,False,Monitor
+F01420,Khedgaon,Nashik,Maharashtra,Wheat,4.21,18.0,0.20375063355296502,0.07653272795166616,78565.25,0.9114151787450889,Critical,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01428,Khedgaon,Nashik,Maharashtra,Paddy,1.96,68.0,0.7049537289058246,0.548245133517984,86355.2,0.05020582160352697,Low,Needs Attention,False,Monitor
+F01430,Sirsam,Nashik,Maharashtra,Paddy,3.14,61.0,0.8377096391665256,0.6890373310252942,162686.85,0.04598704058307829,Low,Loyal Core,False,Monitor
+F01432,Sirsam,Nashik,Maharashtra,Wheat,1.72,48.0,0.7287104622871047,0.5043643858283522,91554.2,0.04598704058307829,Low,Stable,False,Monitor
+F01441,Sirsam,Nashik,Maharashtra,Paddy,2.71,37.0,0.7405642394205108,0.5001383694062091,158010.1,0.04598704058307829,Low,Loyal Core,False,Monitor
+F01448,Sirsam,Nashik,Maharashtra,Paddy,3.87,21.0,0.5636363636363636,0.49430236761250673,133653.4,0.05751822635632443,Low,Loyal Core,False,Monitor
+F01450,Sirsam,Nashik,Maharashtra,Paddy,2.91,27.0,0.8913412563667231,0.7327993152160863,165650.7,0.02851878245643879,Low,Loyal Core,False,Monitor
+F01453,Sirsam,Nashik,Maharashtra,Paddy,5.28,76.0,0.7423961424332344,0.5804880944732586,289301.85000000003,0.05020582160352697,Low,Loyal Core,False,Monitor
+F01457,Sirsam,Nashik,Maharashtra,Wheat,1.82,17.0,0.8205335489086499,0.5898829960673025,115559.55,0.04668830285516805,Low,Loyal Core,False,Monitor
+F01464,Garkheda,Aurangabad,Maharashtra,Mustard,1.43,36.0,0.49645390070921996,-0.13732668334760728,94767.75,0.05751822635632443,Low,Stable,False,Monitor
+F01476,Garkheda,Aurangabad,Maharashtra,Mustard,8.12,16.0,0.8966327329678935,0.10987612503837807,757948.0,0.018590131050194948,Low,Champions,False,Monitor
+F01481,Garkheda,Aurangabad,Maharashtra,Mustard,2.46,37.0,0.6962843295638126,-0.27534334589661547,206629.8,0.05817921343035498,Low,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01490,Hiwra,Aurangabad,Maharashtra,Mustard,9.72,23.0,0.8363336388634279,0.056958564608942885,1341907.1,0.024774123887905876,Low,Champions,False,Monitor
+F01492,Hiwra,Aurangabad,Maharashtra,Mustard,4.72,50.0,0.7425632471504032,0.051194826097771595,389949.65,0.015070814593347682,Low,Loyal Core,False,Monitor
+F01495,Hiwra,Aurangabad,Maharashtra,Mustard,2.02,17.0,0.7474358974358976,-0.06724734708748892,169669.6,0.024774123887905876,Low,Champions,False,Monitor
+F01501,Hiwra,Aurangabad,Maharashtra,Mustard,1.39,42.0,0.41975308641975306,-0.05156474303761127,74521.0,0.06722382555715889,Low,Stable,False,Monitor
+F01502,Hiwra,Aurangabad,Maharashtra,Mustard,2.82,22.0,0.5763466990684488,0.021986773279951577,203195.1,0.042890503395268134,Low,Champions,False,Monitor
+F01505,Hiwra,Aurangabad,Maharashtra,Mustard,1.99,55.0,0.4347048300536672,-0.02993001755990382,100024.95,0.06722382555715889,Low,Stable,False,Monitor
+F01513,Jatwada,Aurangabad,Maharashtra,Mustard,6.06,35.0,0.7670859408885309,0.11773282064499979,741853.8500000001,0.02332669452245891,Low,Champions,False,Monitor
+F01514,Jatwada,Aurangabad,Maharashtra,Mustard,1.85,47.0,0.49318996415770605,0.04495333162073217,100019.40000000001,0.056816964084234665,Low,Stable,False,Monitor
+F01518,Jatwada,Aurangabad,Maharashtra,Mustard,1.47,17.0,0.5853873239436621,-0.1313986744652481,102857.1,0.05086458313185371,Low,Loyal Core,False,Monitor
+F01526,Jatwada,Aurangabad,Maharashtra,Wheat,3.32,76.0,0.4502527573529411,0.0013189750858255689,232886.85,0.08681967927250946,Low,Loyal Core,False,Monitor
+F01528,Jatwada,Aurangabad,Maharashtra,Mustard,1.3,71.0,0.48212648945921177,-0.005476816325912182,74271.8,0.05817921343035498,Low,Needs Attention,False,Monitor
+F01530,Jatwada,Aurangabad,Maharashtra,Mustard,3.3,58.0,0.21171516079632466,-0.2865130461491041,129270.85,0.9114151787450889,Critical,Stable,False,Loyalty intervention: visit + advance-payment contract
+F01535,Jatwada,Aurangabad,Maharashtra,Mustard,3.85,19.0,0.428014299642509,-0.07525950988130053,207711.05,0.07613928767755816,Low,Champions,False,Monitor
+F01538,Jatwada,Aurangabad,Maharashtra,Wheat,3.08,31.0,0.2686115482387121,-0.46269435516021457,208456.8,0.8746504728627359,Critical,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01544,Karmad,Aurangabad,Maharashtra,Mustard,1.77,27.0,0.8479362780593773,-0.04239391061986797,181204.65,0.02851878245643879,Low,Loyal Core,False,Monitor
+F01545,Karmad,Aurangabad,Maharashtra,Wheat,2.31,55.0,0.9424296633598959,0.17947430163593492,309877.45,0.025017949806780827,Low,Loyal Core,False,Monitor
+F01546,Karmad,Aurangabad,Maharashtra,Mustard,1.87,25.0,0.3753315649867374,-0.5056916354891698,142262.8,0.7221908156084738,Critical,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01548,Karmad,Aurangabad,Maharashtra,Mustard,1.17,77.0,0.3403263403263403,-0.5266547917491313,99302.4,0.8746504728627359,Critical,Stable,False,Loyalty intervention: visit + advance-payment contract
+F01550,Karmad,Aurangabad,Maharashtra,Mustard,4.95,34.0,0.6530511811023622,-0.02752704225972702,372995.3,0.02679025292016394,Low,Champions,False,Monitor
+F01553,Karmad,Aurangabad,Maharashtra,Mustard,1.26,18.0,0.7495395948434622,-0.009388976585109066,113779.2,0.033396325005214215,Low,Loyal Core,False,Monitor
+F01556,Karmad,Aurangabad,Maharashtra,Wheat,3.46,20.0,0.458411214953271,0.003778627093846021,248383.3,0.05817921343035498,Low,Champions,False,Monitor
+F01560,Karmad,Aurangabad,Maharashtra,Mustard,1.74,41.0,0.9006211180124223,-0.0024597549015700215,174097.05,0.05086458313185371,Low,Loyal Core,False,Monitor
+F01563,Karmad,Aurangabad,Maharashtra,Mustard,2.42,55.0,0.7706868577609518,-0.03879269614239389,222439.95,0.014753111200321155,Low,Loyal Core,False,Monitor
+F01564,Karmad,Aurangabad,Maharashtra,Mustard,2.12,83.0,0.896042528056704,-0.02691261706202952,225802.05,0.02561413422649466,Low,Loyal Core,False,Monitor
+F01568,Karmad,Aurangabad,Maharashtra,Mustard,3.94,89.0,0.9751650424394844,0.09779277966576183,397105.65,0.03374180067455346,Low,Loyal Core,False,Monitor
+F01569,Karmad,Aurangabad,Maharashtra,Mustard,2.77,30.0,0.9165946413137425,0.06514854140138482,294867.0,0.016518243958794646,Low,Champions,False,Monitor
+F01575,Padegaon,Aurangabad,Maharashtra,Mustard,3.38,48.0,0.5179396092362345,-0.019855928559303293,200178.0,0.05751822635632443,Low,Loyal Core,False,Monitor
+F01576,Padegaon,Aurangabad,Maharashtra,Mustard,1.48,90.0,0.8346774193548386,-0.051999456602282224,146300.55,0.033869809853699064,Low,Stable,False,Monitor
+F01577,Padegaon,Aurangabad,Maharashtra,Mustard,1.23,16.0,0.3886756238003839,-0.0006686384946980595,51711.0,0.28224139446841123,Moderate,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01580,Padegaon,Aurangabad,Maharashtra,Mustard,1.57,85.0,0.27129629629629626,-0.6681810076926997,96758.55,0.7254545454545455,Critical,Stable,False,Loyalty intervention: visit + advance-payment contract
+F01581,Padegaon,Aurangabad,Maharashtra,Mustard,1.58,31.0,0.7696022074040009,-0.19914779259599913,223672.2,0.03250780580752815,Low,Champions,False,Loyalty intervention: visit + advance-payment contract
+F01582,Padegaon,Aurangabad,Maharashtra,Mustard,2.21,42.0,0.826158038147139,-0.10659474366224653,220861.4,0.02065862301134478,Low,Loyal Core,False,Monitor
+F01586,Padegaon,Aurangabad,Maharashtra,Mustard,3.95,20.0,0.9124229646448264,0.09323972982483719,377199.35,0.015922059539080817,Low,Champions,False,Monitor
+F01587,Padegaon,Aurangabad,Maharashtra,Mustard,1.87,20.0,0.8136696501220504,-0.03765778350626825,262189.9,0.015922059539080817,Low,Champions,False,Monitor
+F01595,Padegaon,Aurangabad,Maharashtra,Mustard,1.7,16.0,0.4749190938511327,-0.062072274829508445,94119.75,0.05010005584139347,Low,Loyal Core,False,Monitor
+F01599,Shahapur,Aurangabad,Maharashtra,Mustard,5.94,23.0,0.7615158861809366,-0.09242823871635175,749769.8,0.01918631546990878,Low,Champions,False,Monitor
+F01606,Shahapur,Aurangabad,Maharashtra,Wheat,1.53,16.0,0.7767627078941204,-0.06689926393686552,200402.1,0.032853281476867384,Low,Champions,False,Monitor
+F01607,Shahapur,Aurangabad,Maharashtra,Mustard,3.06,23.0,0.7707549535991973,-0.06165552997407686,382465.1,0.005319148936170213,Low,Champions,False,Monitor
+F01610,Shahapur,Aurangabad,Maharashtra,Mustard,2.34,24.0,0.6477876106194691,-0.11843981739419618,175887.7,0.025906469004466897,Low,Loyal Core,False,Monitor
+F01612,Shahapur,Aurangabad,Maharashtra,Mustard,2.24,19.0,0.7866805411030178,-0.014204414649194641,215829.0,0.011224660747193835,Low,Champions,False,Monitor
+F01633,Bicholi,Indore,Madhya Pradesh,Wheat,3.8,37.0,0.33846361549885245,-0.13504065800542103,166869.0,0.16521620142309798,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01636,Bicholi,Indore,Madhya Pradesh,Wheat,2.48,33.0,0.37760749255002124,-0.3322528913941324,149834.0,0.08936873628654451,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01637,Bicholi,Indore,Madhya Pradesh,Wheat,6.43,38.0,0.5416666666666666,-0.3060797605960669,471872.0,0.05817921343035498,Low,Champions,True,Drought response: emergency liquidity + insurance linkage
+F01638,Bicholi,Indore,Madhya Pradesh,Wheat,0.76,43.0,0.5137751303052867,-0.3081998349241988,57772.0,0.05817921343035498,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F01642,Bicholi,Indore,Madhya Pradesh,Wheat,1.51,16.0,0.5332873404622284,-0.18261371960844297,106001.0,0.04147548259417573,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01649,Harsola,Indore,Madhya Pradesh,Wheat,3.69,46.0,0.45266402465874067,-0.33242794049130764,237189.0,0.05817921343035498,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01650,Harsola,Indore,Madhya Pradesh,Wheat,2.07,56.0,0.24458459007403346,-0.24845305819827182,82620.0,0.17464663463089722,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F01653,Harsola,Indore,Madhya Pradesh,Wheat,1.59,46.0,0.31377633711507297,-0.21047308551772154,66741.0,0.15060581181270835,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F01658,Harsola,Indore,Madhya Pradesh,Wheat,5.09,77.0,0.5002523977788996,-0.2591036549076987,355244.0,0.05817921343035498,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01660,Harsola,Indore,Madhya Pradesh,Wheat,1.53,27.0,0.4327880512091039,-0.23991179796133344,92568.0,0.06406009431123585,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01662,Harsola,Indore,Madhya Pradesh,Wheat,1.84,19.0,0.3596685082872928,-0.08927615799907346,87170.0,0.1211038961038961,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01666,Harsola,Indore,Madhya Pradesh,Wheat,2.18,77.0,0.3180485203945615,-0.22661267057053086,102779.0,0.15060581181270835,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F01687,Kampel,Indore,Madhya Pradesh,Wheat,2.68,37.0,0.4845916795069337,-0.3361008184320604,212325.0,0.05751822635632443,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01693,Mangliya,Indore,Madhya Pradesh,Wheat,1.94,82.0,0.2868059093224656,-0.11902641145517723,76679.0,0.16521620142309798,Low,Needs Attention,True,Drought response: emergency liquidity + insurance linkage
+F01694,Mangliya,Indore,Madhya Pradesh,Wheat,2.31,27.0,0.527859237536657,-0.26856765479996747,163776.0,0.056816964084234665,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01696,Mangliya,Indore,Madhya Pradesh,Wheat,1.98,41.0,0.6359568307449329,-0.2403318290488815,154669.0,0.02851878245643879,Low,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01702,Mangliya,Indore,Madhya Pradesh,Wheat,3.31,47.0,0.6033613445378151,-0.3286508505841361,281917.0,0.04812912581864644,Low,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01703,Mangliya,Indore,Madhya Pradesh,Wheat,2.43,27.0,0.39285000998601954,-0.1348558419041927,119722.0,0.08365594802658644,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01706,Mangliya,Indore,Madhya Pradesh,Wheat,2.77,25.0,0.5123734533183353,-0.4677379229744253,220905.0,0.05817921343035498,Low,Champions,True,Drought response: emergency liquidity + insurance linkage
+F01707,Mangliya,Indore,Madhya Pradesh,Wheat,0.84,28.0,0.6245376078914919,-0.25796558495652844,70815.0,0.03255030655129117,Low,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01709,Mangliya,Indore,Madhya Pradesh,Wheat,4.7,73.0,0.16345420886420559,-0.7878351894165968,289036.0,0.16521620142309798,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01714,Mangliya,Indore,Madhya Pradesh,Wheat,2.48,47.0,0.5889763779527558,-0.2580876010130636,181624.0,0.05086458313185371,Low,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01718,Sanwer,Indore,Madhya Pradesh,Wheat,3.27,28.0,0.39572363172171693,-0.19884410593976037,176443.0,0.08365594802658644,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01719,Sanwer,Indore,Madhya Pradesh,Wheat,1.72,88.0,0.26619853175869773,-0.19503407261505973,68591.0,0.16614004287346062,Low,Needs Attention,True,Drought response: emergency liquidity + insurance linkage
+F01722,Sanwer,Indore,Madhya Pradesh,Wheat,2.8,88.0,0.5724271844660194,-0.19422477848060615,188114.0,0.05020582160352697,Low,Stable,False,Loyalty intervention: visit + advance-payment contract
+F01724,Sanwer,Indore,Madhya Pradesh,Wheat,12.0,60.0,0.47549853820308063,-0.21234802120061003,755595.0,0.05751822635632443,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01730,Sanwer,Indore,Madhya Pradesh,Wheat,2.52,41.0,0.3957464553794829,-0.4375868779538505,173440.0,0.08365594802658644,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01732,Sanwer,Indore,Madhya Pradesh,Wheat,3.48,46.0,0.6488460414840783,-0.045125589721595416,243287.0,0.017421182711435286,Low,Loyal Core,False,Monitor
+F01740,Depalpur,Indore,Madhya Pradesh,Wheat,1.87,76.0,0.5201578798985057,-0.3867247111946117,145445.0,0.05817921343035498,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F01741,Depalpur,Indore,Madhya Pradesh,Wheat,1.64,26.0,0.5611077664057796,-0.14592876945348965,111579.0,0.03273756347688747,Low,Loyal Core,False,Monitor
+F01747,Depalpur,Indore,Madhya Pradesh,Wheat,2.84,25.0,0.5782275711159737,-0.35829986541146275,223809.0,0.05751822635632443,Low,Champions,False,Loyalty intervention: visit + advance-payment contract
+F01750,Depalpur,Indore,Madhya Pradesh,Wheat,3.66,22.0,0.29247757073844033,-0.2623257819372528,166055.0,0.09253246753246754,Low,Champions,True,Drought response: emergency liquidity + insurance linkage
+F01753,Depalpur,Indore,Madhya Pradesh,Wheat,3.36,56.0,0.5895755305867665,-0.27932492484589466,252680.0,0.04812912581864644,Low,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01765,Barnagar,Ujjain,Madhya Pradesh,Wheat,4.73,46.0,0.45518299364453213,-0.376919418960096,327501.3,0.05817921343035498,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01772,Barnagar,Ujjain,Madhya Pradesh,Wheat,3.47,16.0,0.3098310291858679,-0.24346677227982172,161350.4,0.1211038961038961,Low,Champions,True,Drought response: emergency liquidity + insurance linkage
+F01774,Barnagar,Ujjain,Madhya Pradesh,Other,2.99,29.0,0.49105783866057834,-0.37039015839932604,217239.55,0.05817921343035498,Low,Champions,True,Drought response: emergency liquidity + insurance linkage
+F01779,Barnagar,Ujjain,Madhya Pradesh,Wheat,2.97,29.0,0.5445507409491653,-0.3038336832430467,203976.09999999998,0.05751822635632443,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01781,Barnagar,Ujjain,Madhya Pradesh,Wheat,3.28,17.0,0.6210477371357718,-0.0879469718589373,235833.4,0.017421182711435286,Low,Champions,False,Monitor
+F01782,Barnagar,Ujjain,Madhya Pradesh,Wheat,9.72,50.0,0.3296349895481589,-0.14710642266558155,418651.35,0.09253246753246754,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01784,Khachrod,Ujjain,Madhya Pradesh,Gram,1.93,28.0,0.5500100220485067,-0.2273709303324457,197140.5,0.042785425542892205,Low,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01787,Khachrod,Ujjain,Madhya Pradesh,Wheat,3.14,56.0,0.41332390881781234,-0.48787677728853407,217079.1,0.05817921343035498,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01788,Khachrod,Ujjain,Madhya Pradesh,Wheat,7.74,22.0,0.44862942038083287,-0.4207392922594937,540541.5,0.05817921343035498,Low,Champions,True,Drought response: emergency liquidity + insurance linkage
+F01798,Khachrod,Ujjain,Madhya Pradesh,Wheat,9.85,77.0,0.11854466467553625,-0.11440659154768941,187511.8,0.15060581181270835,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F01803,Khachrod,Ujjain,Madhya Pradesh,Wheat,6.61,43.0,0.5288632703229634,-0.3067805990547323,508397.5,0.05817921343035498,Low,Champions,True,Drought response: emergency liquidity + insurance linkage
+F01805,Khachrod,Ujjain,Madhya Pradesh,Wheat,2.2,68.0,0.527972027972028,-0.36377016739554513,167290.35,0.05817921343035498,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F01806,Khachrod,Ujjain,Madhya Pradesh,Wheat,2.21,81.0,0.7353683148335015,-0.18854989724448223,200385.4,0.03072143444462941,Low,Stable,False,Loyalty intervention: visit + advance-payment contract
+F01809,Khachrod,Ujjain,Madhya Pradesh,Wheat,5.1,45.0,0.5653238143804182,-0.23780325014281456,377341.45,0.033396325005214215,Low,Champions,False,Loyalty intervention: visit + advance-payment contract
+F01815,Nagda,Ujjain,Madhya Pradesh,Wheat,1.42,22.0,0.5800339366515839,-0.18403699627054426,135415.3,0.03273756347688747,Low,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01817,Nagda,Ujjain,Madhya Pradesh,Gram,1.05,42.0,0.48498009410061527,-0.24307129776233982,97326.15,0.05203933025242832,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01818,Nagda,Ujjain,Madhya Pradesh,Wheat,3.49,18.0,0.582086384378648,-0.20129544555992296,366128.95,0.03129013411144051,Low,Champions,False,Loyalty intervention: visit + advance-payment contract
+F01823,Nagda,Ujjain,Madhya Pradesh,Gram,0.88,39.0,0.48098530682800344,-0.357033434805196,83597.0,0.05751822635632443,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F01825,Nagda,Ujjain,Madhya Pradesh,Wheat,5.57,34.0,0.4028555937104644,-0.32428700782827236,357818.1,0.06406009431123585,Low,Champions,True,Drought response: emergency liquidity + insurance linkage
+F01829,Nagda,Ujjain,Madhya Pradesh,Wheat,4.57,53.0,0.4229024943310658,-0.16102974386195262,238283.1,0.07052489244270066,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01831,Nagda,Ujjain,Madhya Pradesh,Wheat,4.01,59.0,0.4911581569115816,-0.2894904062310496,286705.6,0.05817921343035498,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01833,Unhel,Ujjain,Madhya Pradesh,Wheat,2.08,48.0,0.5773140716960942,-0.14266467431878382,210577.15000000002,0.024774123887905876,Low,Loyal Core,False,Monitor
+F01837,Unhel,Ujjain,Madhya Pradesh,Wheat,2.21,49.0,0.20570012391573728,-0.2877008913126891,83811.0,0.09253246753246754,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F01838,Unhel,Ujjain,Madhya Pradesh,Wheat,5.15,83.0,0.5390376758965048,-0.4179716698978876,403415.7,0.05817921343035498,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01839,Unhel,Ujjain,Madhya Pradesh,Wheat,2.43,60.0,0.4574230940704414,-0.408850704660293,177334.5,0.05817921343035498,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01842,Unhel,Ujjain,Madhya Pradesh,Wheat,2.26,24.0,0.4950898203592814,-0.32565539615632777,159290.25,0.05751822635632443,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01848,Unhel,Ujjain,Madhya Pradesh,Wheat,3.31,47.0,0.5240469679909925,-0.33056296108702177,241536.59999999998,0.05751822635632443,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01859,Unhel,Ujjain,Madhya Pradesh,Gram,2.47,68.0,0.6660021469099832,-0.15507845539293985,277386.05,0.03214137905717364,Low,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01865,Titrod,Ujjain,Madhya Pradesh,Wheat,4.01,90.0,0.27458754316408746,-0.2063058906356972,167442.7,0.09253246753246754,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F01866,Titrod,Ujjain,Madhya Pradesh,Other,1.71,27.0,0.6287829305464837,-0.17886412827704556,195122.25,0.037067872655527995,Low,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01867,Titrod,Ujjain,Madhya Pradesh,Wheat,1.4,42.0,0.47328533535430095,-0.33754732430616774,99348.5,0.05817921343035498,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01873,Titrod,Ujjain,Madhya Pradesh,Wheat,1.69,23.0,0.25324114088159033,-0.2102053343142321,65195.25,0.08947521817135234,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01875,Titrod,Ujjain,Madhya Pradesh,Wheat,3.48,22.0,0.505137274717871,-0.3845299757199574,239308.0,0.05817921343035498,Low,Champions,True,Drought response: emergency liquidity + insurance linkage
+F01876,Titrod,Ujjain,Madhya Pradesh,Wheat,2.76,51.0,0.22499488647985275,-0.630564773660524,169259.4,0.07052489244270066,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01878,Titrod,Ujjain,Madhya Pradesh,Wheat,1.95,16.0,0.6054706752094628,-0.15446400089287804,166185.35,0.025066458665878116,Low,Champions,False,Loyalty intervention: visit + advance-payment contract
+F01880,Titrod,Ujjain,Madhya Pradesh,Wheat,5.33,46.0,0.6017303392631477,-0.5029817026216692,524729.4,0.05817921343035498,Low,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F01881,Titrod,Ujjain,Madhya Pradesh,Wheat,2.23,68.0,0.6698941679801846,-0.25960583201981535,187860.9,0.05751822635632443,Low,Stable,False,Loyalty intervention: visit + advance-payment contract
+F01886,Ghatia,Ujjain,Madhya Pradesh,Other,7.22,87.0,0.4972629908766362,-0.28289358365603673,495599.75,0.06406009431123585,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01890,Ghatia,Ujjain,Madhya Pradesh,Wheat,3.51,22.0,0.29309309309309306,-0.27921731255064597,174787.65,0.15060581181270835,Low,Champions,True,Drought response: emergency liquidity + insurance linkage
+F01893,Ghatia,Ujjain,Madhya Pradesh,Gram,1.84,65.0,0.32231083446800235,-0.2072117785973242,112447.54999999999,0.15060581181270835,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F01899,Ghatia,Ujjain,Madhya Pradesh,Gram,7.75,42.0,0.5610815559568549,-0.16367579591914105,757665.25,0.047427863546556676,Low,Champions,False,Loyalty intervention: visit + advance-payment contract
+F01903,Ghatia,Ujjain,Madhya Pradesh,Wheat,1.99,21.0,0.5786290322580645,-0.21713496169049828,215113.45,0.02851878245643879,Low,Champions,False,Loyalty intervention: visit + advance-payment contract
+F01905,Ghatia,Ujjain,Madhya Pradesh,Wheat,2.74,16.0,0.06327272727272727,-0.4387035573122531,87517.0,0.09253246753246754,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01907,Ghatia,Ujjain,Madhya Pradesh,Gram,3.29,17.0,0.5631125280434526,-0.061590559842533255,287644.15,0.024027254796485566,Low,Champions,False,Monitor
+F01909,Ghatia,Ujjain,Madhya Pradesh,Wheat,9.52,89.0,0.30398617262612077,-0.16648248914688885,413339.1,0.09253246753246754,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01913,Bagli,Dewas,Madhya Pradesh,Mustard,2.17,39.0,0.4707207207207207,0.23404285226176727,94579.0,0.08365594802658644,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F01914,Bagli,Dewas,Madhya Pradesh,Mustard,1.54,16.0,0.5160249020059949,0.1941594585809185,119557.0,0.07052489244270066,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01915,Bagli,Dewas,Madhya Pradesh,Mustard,3.1,-96.0,0.8026862026862027,0.27286386766082205,375497.0,0.05086458313185371,Low,Champions,False,Monitor
+F01917,Bagli,Dewas,Madhya Pradesh,Mustard,0.92,37.0,0.9742547425474256,0.4334263401805616,82260.0,0.05222683247797403,Low,Stable,False,Monitor
+F01918,Bagli,Dewas,Madhya Pradesh,Mustard,1.31,69.0,0.8953140578265205,0.6890054474258385,84425.0,0.05969496894154428,Low,Needs Attention,False,Monitor
+F01921,Bagli,Dewas,Madhya Pradesh,Wheat,2.17,16.0,0.825886524822695,0.29461982252445873,262053.0,0.05086458313185371,Low,Champions,False,Monitor
+F01929,Bagli,Dewas,Madhya Pradesh,Mustard,1.81,20.0,0.605655930871956,0.33139677921594207,84619.0,0.05751822635632443,Low,Loyal Core,False,Monitor
+F01934,Bagli,Dewas,Madhya Pradesh,Wheat,2.56,17.0,0.4796025891916303,0.17937164230941322,175522.0,0.08365594802658644,Low,Champions,True,Drought response: emergency liquidity + insurance linkage
+F01937,Bagli,Dewas,Madhya Pradesh,Mustard,2.55,24.0,0.7697431018078021,0.2793500887073655,183599.0,0.03575792970681152,Low,Loyal Core,False,Monitor
+F01939,Bagli,Dewas,Madhya Pradesh,Mustard,3.51,72.0,0.5450777202072539,0.2631434136379108,166865.0,0.07052489244270066,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F01940,Kannod,Dewas,Madhya Pradesh,Mustard,1.66,64.0,0.8756633813495073,0.4381633813495073,120941.0,0.06557584982242516,Low,Stable,False,Monitor
+F01948,Kannod,Dewas,Madhya Pradesh,Mustard,2.68,20.0,0.5557029177718832,0.21110307317203858,229209.0,0.05817921343035498,Low,Champions,False,Monitor
+F01958,Kannod,Dewas,Madhya Pradesh,Mustard,1.38,91.0,0.42500000000000004,0.12980349344978176,55249.0,0.1211038961038961,Low,Needs Attention,True,Drought response: emergency liquidity + insurance linkage
+F01959,Kannod,Dewas,Madhya Pradesh,Mustard,1.95,77.0,0.6581314878892733,0.5071066766702874,81321.0,0.0588549586029555,Low,Needs Attention,False,Monitor
+F01964,Kannod,Dewas,Madhya Pradesh,Mustard,1.3,86.0,0.9250243427458618,0.314966634584279,117378.0,0.051568070949647285,Low,Stable,False,Monitor
+F01969,Khategaon,Dewas,Madhya Pradesh,Mustard,1.99,29.0,0.6397952655150352,0.2545625207317286,116047.0,0.05751822635632443,Low,Loyal Core,False,Monitor
+F01973,Khategaon,Dewas,Madhya Pradesh,Mustard,3.18,66.0,0.8341111582520152,0.3587408516726146,233742.0,0.05090708387561673,Low,Loyal Core,False,Monitor
+F01974,Khategaon,Dewas,Madhya Pradesh,Mustard,1.58,25.0,0.4584269662921348,0.16880564791906322,72433.0,0.08681967927250946,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01978,Khategaon,Dewas,Madhya Pradesh,Wheat,4.55,-4.0,0.7531182103484348,0.18978944948880971,514244.0,0.05751822635632443,Low,Champions,False,Monitor
+F01979,Khategaon,Dewas,Madhya Pradesh,Mustard,1.53,25.0,0.8507223113964687,0.3770039466982208,120866.0,0.051565845403943475,Low,Loyal Core,False,Monitor
+F01986,Khategaon,Dewas,Madhya Pradesh,Mustard,3.15,21.0,0.6140492531287849,0.18871285667325488,185592.0,0.05203933025242832,Low,Champions,False,Monitor
+F01990,Satwas,Dewas,Madhya Pradesh,Mustard,4.67,54.0,0.3709997167941093,0.049187120787964944,169733.0,0.17495646116335772,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F01994,Satwas,Dewas,Madhya Pradesh,Mustard,3.0,38.0,0.78544061302682,0.24748202239841466,219953.0,0.037067872655527995,Low,Loyal Core,False,Monitor
+F01998,Satwas,Dewas,Madhya Pradesh,Mustard,4.81,67.0,0.72886882367695,0.22684453217897427,339252.0,0.03645919197890128,Low,Loyal Core,False,Monitor
+F02002,Satwas,Dewas,Madhya Pradesh,Wheat,1.38,33.0,0.7887744034707158,0.17770916812802373,164792.0,0.027678772117850005,Low,Loyal Core,False,Monitor
+F02021,Sonkatch,Dewas,Madhya Pradesh,Mustard,3.33,73.0,0.9836384885079861,0.38641145211283867,307328.0,0.05086458313185371,Low,Loyal Core,False,Monitor
+F02031,Sonkatch,Dewas,Madhya Pradesh,Wheat,2.44,19.0,0.8540785498489426,0.23149645358263582,320119.0,0.05020582160352697,Low,Champions,False,Monitor
+F02035,Udaynagar,Dewas,Madhya Pradesh,Mustard,3.84,-35.0,0.6962270235407934,0.06335031121202617,289328.0,0.02851878245643879,Low,Champions,False,Monitor
+F02036,Udaynagar,Dewas,Madhya Pradesh,Mustard,3.63,34.0,0.5051233793391887,0.11452221974199611,282263.0,0.07131026901424076,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02038,Udaynagar,Dewas,Madhya Pradesh,Mustard,4.8,44.0,0.7474331164135937,0.11484599432727949,598935.0,0.025066458665878116,Low,Champions,False,Monitor
+F02041,Udaynagar,Dewas,Madhya Pradesh,Mustard,1.33,55.0,0.3115530303030303,-0.11725768996497643,56315.0,0.28750623606472075,Moderate,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02042,Udaynagar,Dewas,Madhya Pradesh,Wheat,1.5,33.0,0.8748346123313047,0.3543504410091445,179294.0,0.0473492899291986,Low,Loyal Core,False,Monitor
+F02044,Udaynagar,Dewas,Madhya Pradesh,Mustard,4.75,21.0,0.23589743589743592,0.05282792454162036,119948.0,0.2554086936269352,Moderate,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02046,Udaynagar,Dewas,Madhya Pradesh,Mustard,2.86,21.0,0.2583370386838595,0.09972489494160422,67696.0,0.27679233995597746,Moderate,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02049,Udaynagar,Dewas,Madhya Pradesh,Mustard,2.63,20.0,0.8176739461655662,0.35548907221598636,180270.0,0.05090708387561673,Low,Champions,False,Monitor
+F02060,Udaynagar,Dewas,Madhya Pradesh,Mustard,7.17,18.0,0.8181150679183931,0.2642259339675035,885254.0,0.051565845403943475,Low,Champions,False,Monitor
+F02061,Udaynagar,Dewas,Madhya Pradesh,Mustard,2.83,77.0,0.7812074443940082,0.17710410092896267,221356.0,0.028380034389939766,Low,Loyal Core,False,Monitor
+F02064,Bajna,Ratlam,Madhya Pradesh,Mustard,4.58,55.0,0.6936864633493847,0.029219516028870407,649297.2,0.03645919197890128,Low,Loyal Core,False,Monitor
+F02065,Bajna,Ratlam,Madhya Pradesh,Groundnut,6.45,43.0,0.8880102979036412,0.15044239150999306,832045.0,0.01915886295225479,Low,Champions,False,Monitor
+F02066,Bajna,Ratlam,Madhya Pradesh,Groundnut,1.48,26.0,0.834072759538598,-0.16004142527599874,210962.25,0.056816964084234665,Low,Champions,False,Loyalty intervention: visit + advance-payment contract
+F02068,Bajna,Ratlam,Madhya Pradesh,Groundnut,2.09,87.0,0.3533969010727056,-0.5013928691917071,213549.95,0.6928202950247,Critical,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F02079,Bajna,Ratlam,Madhya Pradesh,Groundnut,1.66,48.0,0.864825581395349,-0.06220008543907474,257293.59999999998,0.03945935356191767,Low,Loyal Core,False,Monitor
+F02083,Bajna,Ratlam,Madhya Pradesh,Mustard,2.49,67.0,0.8321536905965622,-0.12555240259340206,367287.60000000003,0.024774123887905876,Low,Loyal Core,False,Monitor
+F02088,Bajna,Ratlam,Madhya Pradesh,Mustard,2.74,20.0,0.7029250457038391,0.3653866890724037,196970.5,0.05020582160352697,Low,Champions,False,Monitor
+F02090,Jaora,Ratlam,Madhya Pradesh,Groundnut,2.04,55.0,0.8103141671606402,-0.036695224831450934,360692.35,0.02065862301134478,Low,Loyal Core,False,Monitor
+F02091,Jaora,Ratlam,Madhya Pradesh,Gram,3.13,27.0,0.8846403110823075,-0.17576237348145096,624085.0,0.03575792970681152,Low,Champions,False,Loyalty intervention: visit + advance-payment contract
+F02092,Jaora,Ratlam,Madhya Pradesh,Groundnut,2.03,81.0,0.8625162127107653,0.1261163896236357,245581.8,0.015340161623754933,Low,Loyal Core,False,Monitor
+F02095,Jaora,Ratlam,Madhya Pradesh,Groundnut,7.73,81.0,0.8020579002441577,-0.04345407972961757,923202.25,0.032853281476867384,Low,Loyal Core,False,Monitor
+F02096,Jaora,Ratlam,Madhya Pradesh,Groundnut,0.75,67.0,0.8590831918505942,0.036948804498815435,94094.3,0.024177939468192043,Low,Needs Attention,False,Monitor
+F02104,Jaora,Ratlam,Madhya Pradesh,Mustard,0.77,56.0,0.8197492163009404,-0.013379618054887854,93446.7,0.02332669452245891,Low,Stable,False,Monitor
+F02107,Jaora,Ratlam,Madhya Pradesh,Gram,2.64,29.0,0.8628454452405321,0.010474035754894029,458390.55000000005,0.022106052376791745,Low,Champions,False,Monitor
+F02108,Jaora,Ratlam,Madhya Pradesh,Mustard,4.33,44.0,0.5328688276279915,-0.03922311572004655,361015.5,0.0451470302444895,Low,Champions,False,Monitor
+F02121,Namli,Ratlam,Madhya Pradesh,Mustard,3.03,20.0,0.5587620242576328,0.03278258552465141,259404.95,0.04081672106584898,Low,Champions,False,Monitor
+F02123,Namli,Ratlam,Madhya Pradesh,Groundnut,2.1,30.0,0.8050694025347013,-0.041960703242353126,299443.45,0.02065862301134478,Low,Champions,False,Monitor
+F02128,Namli,Ratlam,Madhya Pradesh,Mustard,4.39,37.0,0.5424143556280587,-0.05401066919815778,430508.4,0.036597940045400304,Low,Champions,False,Monitor
+F02133,Namli,Ratlam,Madhya Pradesh,Mustard,2.06,42.0,0.7538265306122448,-0.03719964304791312,332970.80000000005,0.005319148936170213,Low,Champions,False,Monitor
+F02144,Piploda,Ratlam,Madhya Pradesh,Groundnut,2.35,48.0,0.8835051546391752,-0.040905980264465125,458235.35,0.024177939468192043,Low,Loyal Core,False,Monitor
+F02145,Piploda,Ratlam,Madhya Pradesh,Groundnut,5.28,34.0,0.7595870206489675,-0.12484863715117622,683042.5,0.024774123887905876,Low,Champions,False,Monitor
+F02146,Piploda,Ratlam,Madhya Pradesh,Groundnut,1.58,52.0,0.9902676399026764,0.18374083337586977,227010.35,0.051565845403943475,Low,Loyal Core,False,Monitor
+F02149,Piploda,Ratlam,Madhya Pradesh,Mustard,3.12,24.0,0.8288498199533998,-0.016463578551488056,562318.2,0.024774123887905876,Low,Champions,False,Monitor
+F02151,Piploda,Ratlam,Madhya Pradesh,Mustard,2.16,34.0,0.7463976945244956,-0.07785241109443142,265253.95,0.024774123887905876,Low,Loyal Core,False,Monitor
+F02154,Piploda,Ratlam,Madhya Pradesh,Groundnut,3.52,24.0,0.8382517743742995,-0.08650882754088518,442283.9,0.017738886104461813,Low,Champions,False,Monitor
+F02156,Piploda,Ratlam,Madhya Pradesh,Groundnut,2.74,69.0,0.8888374247336731,0.02062529389848733,396271.0,0.022106052376791745,Low,Loyal Core,False,Monitor
+F02162,Piploda,Ratlam,Madhya Pradesh,Mustard,1.23,53.0,0.7929155313351499,0.03397666166963653,258882.69999999998,0.02065862301134478,Low,Loyal Core,False,Monitor
+F02168,Sailana,Ratlam,Madhya Pradesh,Gram,9.06,56.0,0.5685064235986507,-0.00511007629924598,1116165.2000000002,0.04812912581864644,Low,Loyal Core,False,Monitor
+F02174,Sailana,Ratlam,Madhya Pradesh,Mustard,1.43,90.0,0.8658204895738894,0.14251031901166566,174560.25,0.03790788299411678,Low,Stable,False,Monitor
+F02178,Sailana,Ratlam,Madhya Pradesh,Groundnut,4.04,45.0,0.602486355366889,-0.23027027669770161,466534.35,0.04879011289267699,Low,Champions,False,Loyalty intervention: visit + advance-payment contract
+F02184,Sailana,Ratlam,Madhya Pradesh,Groundnut,4.68,43.0,0.5067385444743935,0.02002835561918248,438475.35,0.047427863546556676,Low,Champions,False,Monitor
+F02189,Sailana,Ratlam,Madhya Pradesh,Gram,3.18,22.0,0.8098375054896794,0.09589737848635305,462791.39999999997,0.005319148936170213,Low,Champions,False,Monitor
+F02195,Tal,Ratlam,Madhya Pradesh,Mustard,1.94,21.0,0.7530534351145037,-0.16170229768709155,312420.44999999995,0.02679025292016394,Low,Champions,False,Loyalty intervention: visit + advance-payment contract
+F02196,Tal,Ratlam,Madhya Pradesh,Groundnut,4.66,36.0,0.41119636260301223,-0.06211324593791301,330341.6,0.07640577332358155,Low,Champions,False,Monitor
+F02201,Tal,Ratlam,Madhya Pradesh,Mustard,3.02,16.0,0.8102799832845801,0.05792638507171899,494975.35,0.005319148936170213,Low,Champions,False,Monitor
+F02202,Tal,Ratlam,Madhya Pradesh,Groundnut,5.82,51.0,0.5600552231937413,0.00259330927568191,533267.25,0.04217674486626549,Low,Loyal Core,False,Monitor
+F02207,Tal,Ratlam,Madhya Pradesh,Groundnut,2.46,29.0,0.8386939571150097,-0.07074526266903769,352567.5,0.015922059539080817,Low,Champions,False,Monitor
+F02208,Tal,Ratlam,Madhya Pradesh,Groundnut,1.36,18.0,0.5208737864077669,-0.11449290310559834,165693.3,0.03250780580752815,Low,Champions,False,Monitor
+F02211,Tal,Ratlam,Madhya Pradesh,Groundnut,1.43,40.0,0.8715919085312225,0.03471247590710891,175585.45,0.03273756347688747,Low,Loyal Core,False,Monitor
+F02217,Tal,Ratlam,Madhya Pradesh,Groundnut,4.75,28.0,0.9908389585342335,0.20355911509000668,679880.3999999999,0.0451470302444895,Low,Champions,False,Monitor
+F02220,Chikhali,Amravati,Maharashtra,Wheat,4.51,43.0,0.5052770448548813,0.06769315223743166,208720.0,0.05817921343035498,Low,Loyal Core,False,Monitor
+F02222,Padegaon,Aurangabad,Maharashtra,Mustard,2.38,41.0,0.28155844155844156,0.010194805194805256,78005.65,0.8683575666842462,Critical,Stable,False,Loyalty intervention: visit + advance-payment contract
+F02225,Vadki,Yavatmal,Maharashtra,Gram,4.28,51.0,0.7817408376963352,0.08251657817588387,342871.7,0.015070814593347682,Low,Loyal Core,False,Monitor
+F02226,Depalpur,Indore,Madhya Pradesh,Wheat,2.1,50.0,0.3430709802028006,-0.24197000340375674,109540.0,0.1220343832412798,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02227,Kannod,Dewas,Madhya Pradesh,Mustard,1.96,39.0,0.7850964737192282,0.22222577383785214,145818.0,0.04668830285516805,Low,Loyal Core,False,Monitor
+F02231,Udaynagar,Dewas,Madhya Pradesh,Mustard,2.77,83.0,0.8389458272327966,0.3625230630051543,211844.0,0.051568070949647285,Low,Loyal Core,False,Monitor
+F02233,Pardi,Yavatmal,Maharashtra,Cotton,2.18,87.0,0.8390342052313884,-0.01925456482208754,206208.15000000002,0.027630263258752723,Low,Stable,False,Monitor
+F02234,Borgaon,Amravati,Maharashtra,Wheat,0.87,60.0,0.6807598039215687,-0.07769430235862462,70447.0,0.02679025292016394,Low,Stable,False,Monitor
+F02243,Khategaon,Dewas,Madhya Pradesh,Mustard,3.56,78.0,1.0226618705035972,0.5145683453237411,320865.0,0.06391374996199296,Low,Loyal Core,False,Monitor
+F02244,Eklara,Amravati,Maharashtra,Wheat,4.61,44.0,0.8031127557683936,-0.019675245239925143,400594.0,0.005319148936170213,Low,Champions,False,Monitor
+F02245,Jatwada,Aurangabad,Maharashtra,Mustard,7.51,41.0,0.6353930766742154,-0.17253272433758904,574675.75,0.04081672106584898,Low,Champions,False,Loyalty intervention: visit + advance-payment contract
+F02248,Vani,Nashik,Maharashtra,Wheat,2.63,57.0,0.9047173343317109,0.6339212255367932,174593.75,0.04598704058307829,Low,Loyal Core,False,Monitor
+F02250,Kannod,Dewas,Madhya Pradesh,Mustard,3.78,70.0,0.5098619329388561,0.23007351423061556,177012.0,0.07052489244270066,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02252,Wadner,Amravati,Maharashtra,Wheat,3.15,84.0,0.8435207823960881,0.1813233894724382,239789.0,0.017738886104461813,Low,Loyal Core,False,Monitor
+F02261,Wadner,Amravati,Maharashtra,Wheat,4.68,43.0,0.8004888837155164,-0.1641871010367072,430777.5,0.015922059539080817,Low,Champions,False,Loyalty intervention: visit + advance-payment contract
+F02262,Harsola,Indore,Madhya Pradesh,Wheat,2.63,72.0,0.4008,-0.2792938599921783,161684.0,0.08365594802658644,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02263,Sakarda,Yavatmal,Maharashtra,Gram,2.42,63.0,0.8631459398069279,0.13060089476188275,228724.75,0.015070814593347682,Low,Loyal Core,False,Monitor
+F02266,Kampel,Indore,Madhya Pradesh,Wheat,4.64,67.0,0.5891879816821178,-0.2065767242002351,353689.0,0.027630263258752723,Low,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F02270,Dabha,Yavatmal,Maharashtra,Cotton,4.45,62.0,0.8075313807531382,0.0213582391196111,422901.8,0.015922059539080817,Low,Loyal Core,False,Monitor
+F02272,Sailana,Ratlam,Madhya Pradesh,Groundnut,4.67,52.0,0.4417145844223732,0.029682128455620738,304375.8,0.08365594802658644,Low,Loyal Core,False,Monitor
+F02273,Shahapur,Aurangabad,Maharashtra,Mustard,1.96,26.0,0.7993548387096775,-0.01699454538886669,167401.8,0.024177939468192043,Low,Loyal Core,False,Monitor
+F02274,Nagda,Ujjain,Madhya Pradesh,Wheat,0.92,59.0,0.6081003993154593,-0.3967539696165795,79333.4,0.05751822635632443,Low,Stable,False,Loyalty intervention: visit + advance-payment contract
+F02279,Sakarda,Yavatmal,Maharashtra,Gram,2.52,57.0,0.9009900990099009,0.14853203076235888,238582.6,0.02332669452245891,Low,Loyal Core,False,Monitor
+F02280,Depalpur,Indore,Madhya Pradesh,Wheat,1.9,31.0,0.561540608428691,-0.23152229574532424,134788.0,0.027678772117850005,Low,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F02281,Hiwra,Aurangabad,Maharashtra,Mustard,4.25,33.0,0.8225568349571892,0.048462771734367305,399763.3,0.011224660747193835,Low,Champions,False,Monitor
+F02285,Depalpur,Indore,Madhya Pradesh,Wheat,1.47,37.0,0.6081758580794446,-0.3104808583384656,111646.0,0.04812912581864644,Low,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F02289,Sanwer,Indore,Madhya Pradesh,Wheat,1.78,68.0,0.2128536116451524,-0.22029139777104348,66557.0,0.16521620142309798,Low,Needs Attention,True,Drought response: emergency liquidity + insurance linkage
+F02292,Depalpur,Indore,Madhya Pradesh,Wheat,4.98,59.0,0.5160459587955626,-0.38390684913270534,374131.0,0.05817921343035498,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02294,Vani,Nashik,Maharashtra,Paddy,4.65,44.0,0.8959608323133414,0.6140362811735391,285612.1,0.05020582160352697,Low,Loyal Core,False,Monitor
+F02296,Dabha,Yavatmal,Maharashtra,Gram,2.65,24.0,0.7279210093252881,-0.012338730934452147,226853.2,0.02679025292016394,Low,Champions,False,Monitor
+F02298,Udaynagar,Dewas,Madhya Pradesh,Mustard,4.64,57.0,0.5898963730569948,0.3496953680318692,232378.0,0.051565845403943475,Low,Loyal Core,False,Monitor
+F02300,Garkheda,Aurangabad,Maharashtra,Mustard,0.83,40.0,0.7255216693418941,-0.004208060387835499,67090.5,0.024774123887905876,Low,Stable,False,Monitor
+F02301,Satwas,Dewas,Madhya Pradesh,Mustard,1.76,19.0,0.780440414507772,0.2504173198195503,143525.0,0.03645919197890128,Low,Loyal Core,False,Monitor
+F02302,Shahapur,Aurangabad,Maharashtra,Mustard,2.39,30.0,0.5474701534963048,0.08270577822609299,137689.2,0.05751822635632443,Low,Loyal Core,False,Monitor
+F02304,Titrod,Ujjain,Madhya Pradesh,Wheat,4.6,66.0,0.4094026548672567,-0.39840222318152396,302030.8,0.07640577332358155,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02305,Borgaon,Amravati,Maharashtra,Other,3.39,50.0,0.48735019973368837,-0.13215149205345417,218218.5,0.05751822635632443,Low,Loyal Core,False,Monitor
+F02306,Palkhed,Nashik,Maharashtra,Paddy,1.19,90.0,0.5368241805023414,0.40799909550045244,46183.25,0.05817921343035498,Low,Needs Attention,False,Monitor
+F02307,Jatwada,Aurangabad,Maharashtra,Mustard,3.27,74.0,0.7633946030504497,0.005913740141611834,290615.3,0.015070814593347682,Low,Loyal Core,False,Monitor
+F02309,Eklara,Amravati,Maharashtra,Wheat,2.35,24.0,0.41144114411441146,-0.14167562498128639,136464.0,0.07131026901424076,Low,Loyal Core,False,Monitor
+F02313,Ghatia,Ujjain,Madhya Pradesh,Wheat,3.48,50.0,0.31220419202163624,-0.12375234403368152,129462.6,0.15060581181270835,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02316,Piploda,Ratlam,Madhya Pradesh,Mustard,2.13,80.0,0.8899196042053186,0.2201665177855655,261641.95,0.027678772117850005,Low,Loyal Core,False,Monitor
+F02323,Bicholi,Indore,Madhya Pradesh,Wheat,0.87,22.0,0.1795817958179582,-0.6225290221239943,45812.0,0.08365594802658644,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02325,Nagda,Ujjain,Madhya Pradesh,Wheat,3.8,24.0,0.3462341639983294,-0.17787033371241667,196473.59999999998,0.08365594802658644,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02328,Sirsam,Nashik,Maharashtra,Paddy,9.12,53.0,0.3118077937298564,0.17854140440264366,224060.1,0.5411111111111111,High,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F02338,Unhel,Ujjain,Madhya Pradesh,Wheat,3.62,45.0,0.570967268457361,-0.17720210435384565,254238.0,0.02332669452245891,Low,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F02339,Hiwra,Aurangabad,Maharashtra,Mustard,3.28,54.0,0.5250552689756816,0.09155305238290129,186085.35,0.05817921343035498,Low,Loyal Core,False,Monitor
+F02345,Khachrod,Ujjain,Madhya Pradesh,Wheat,1.29,17.0,0.5177981651376147,-0.17575022195915957,87209.54999999999,0.026194068500450106,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02360,Bagli,Dewas,Madhya Pradesh,Mustard,4.13,40.0,0.7977528089887641,0.29487774364637,300951.0,0.045848292516579264,Low,Loyal Core,False,Monitor
+F02363,Sirsam,Nashik,Maharashtra,Wheat,5.75,23.0,0.8309798519028758,0.6627022806513269,336829.94999999995,0.027630263258752723,Low,Champions,False,Monitor
+F02365,Piploda,Ratlam,Madhya Pradesh,Mustard,1.38,20.0,0.2251356238698011,-0.3905612638162611,101254.35,0.8553653289208999,Critical,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F02366,Titrod,Ujjain,Madhya Pradesh,Wheat,7.4,30.0,0.5125718122808326,-0.4248384662147171,621255.0,0.05817921343035498,Low,Champions,True,Drought response: emergency liquidity + insurance linkage
+F02368,Chandur K,Yavatmal,Maharashtra,Gram,4.15,61.0,0.46376294180649763,-0.02860482532165287,214793.95,0.07447400026016378,Low,Loyal Core,False,Monitor
+F02369,Garkheda,Aurangabad,Maharashtra,Mustard,2.5,24.0,0.4922071392659628,0.031223828485629046,132916.65000000002,0.05817921343035498,Low,Loyal Core,False,Monitor
+F02371,Palkhed,Nashik,Maharashtra,Wheat,2.45,19.0,0.9946546931793886,0.7211292112171821,167944.95,0.051568070949647285,Low,Champions,False,Monitor
+F02372,Sakarda,Yavatmal,Maharashtra,Cotton,4.54,76.0,0.4656319290465632,-0.04304550961292214,265177.5,0.08365594802658644,Low,Loyal Core,False,Monitor
+F02374,Bicholi,Indore,Madhya Pradesh,Wheat,2.55,58.0,0.32897196261682243,-0.21655888085778946,126430.0,0.1220343832412798,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02382,Ambodi,Yavatmal,Maharashtra,Cotton,3.1,75.0,0.6551868962620748,0.000649816575294393,233467.5,0.024177939468192043,Low,Loyal Core,False,Monitor
+F02383,Namli,Ratlam,Madhya Pradesh,Mustard,1.52,18.0,0.7476948868398994,0.0009570457960085266,179362.59999999998,0.025906469004466897,Low,Champions,False,Monitor
+F02385,Hiwra,Aurangabad,Maharashtra,Mustard,3.72,88.0,0.65888,-0.07360969982342547,288978.2,0.024774123887905876,Low,Loyal Core,False,Monitor
+F02390,Borgaon,Amravati,Maharashtra,Wheat,0.95,53.0,0.6900891452543262,-0.023478693941653805,75097.0,0.01918631546990878,Low,Stable,False,Monitor
+F02391,Kampel,Indore,Madhya Pradesh,Wheat,3.82,58.0,0.41697671214000276,-0.2768388593674517,233598.0,0.06406009431123585,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02392,Khedgaon,Nashik,Maharashtra,Wheat,3.41,23.0,0.8539465506525792,0.6076380756556813,217292.05000000002,0.04212666401456546,Low,Champions,False,Monitor
+F02394,Kannod,Dewas,Madhya Pradesh,Mustard,4.39,23.0,0.35863489261547515,0.07814106545498128,147594.0,0.27215470915594675,Moderate,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02397,Pardi,Yavatmal,Maharashtra,Cotton,1.25,33.0,0.7984790874524716,-0.018807564626302953,112384.0,0.025906469004466897,Low,Loyal Core,False,Monitor
+F02406,Satwas,Dewas,Madhya Pradesh,Mustard,7.48,84.0,0.7495081967213115,0.21687952025072332,532167.0,0.02922004472852855,Low,Loyal Core,False,Monitor
+F02412,Sonkatch,Dewas,Madhya Pradesh,Mustard,5.36,27.0,0.8385358185492926,0.23199152485416086,446091.0,0.027678772117850005,Low,Champions,False,Monitor
+F02419,Kannod,Dewas,Madhya Pradesh,Mustard,1.68,66.0,0.5625462620281273,0.2600887951094127,86064.0,0.05817921343035498,Low,Needs Attention,False,Monitor
+F02420,Palkhed,Nashik,Maharashtra,Wheat,4.78,76.0,0.3539025667888947,0.2773523749084665,115711.59999999999,0.7931869892317324,Critical,Stable,False,Loyalty intervention: visit + advance-payment contract
+F02422,Sonkatch,Dewas,Madhya Pradesh,Mustard,1.93,45.0,0.7536945812807881,0.24645694557511866,144061.0,0.05090708387561673,Low,Loyal Core,False,Monitor
+F02423,Garkheda,Aurangabad,Maharashtra,Mustard,2.35,30.0,0.5202913631633715,-0.012322433176375158,136082.75,0.04414767488901252,Low,Loyal Core,False,Monitor
+F02425,Palkhed,Nashik,Maharashtra,Wheat,1.91,68.0,0.9067385444743935,0.7613420084671009,111884.90000000001,0.05386171570387867,Low,Stable,False,Monitor
+F02429,Kannod,Dewas,Madhya Pradesh,Mustard,3.82,54.0,0.49950281736824664,0.08479847409247476,225208.0,0.07052489244270066,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02434,Khedgaon,Nashik,Maharashtra,Wheat,4.44,39.0,0.6286236019173704,0.5214262080458444,173275.2,0.04943906876736292,Low,Loyal Core,False,Monitor
+F02440,Kannod,Dewas,Madhya Pradesh,Mustard,2.75,18.0,0.773784355179704,0.24974968220886073,214736.0,0.03575792970681152,Low,Champions,False,Monitor
+F02441,Padegaon,Aurangabad,Maharashtra,Soybean,2.05,48.0,0.8265822784810126,-0.1296261472396082,201155.6,0.024774123887905876,Low,Loyal Core,False,Monitor
+F02442,Karmad,Aurangabad,Maharashtra,Mustard,4.42,25.0,0.7610188895248998,-0.12792932190062078,400057.5,0.024774123887905876,Low,Champions,False,Monitor
+F02444,Mangliya,Indore,Madhya Pradesh,Wheat,1.29,22.0,0.4548262548262548,-0.3112556165187744,88698.0,0.05817921343035498,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02445,Sonkatch,Dewas,Madhya Pradesh,Mustard,5.05,23.0,1.0279937791601867,0.4648552421761246,467212.0,0.037299202317490066,Low,Champions,False,Monitor
+F02451,Chikhali,Amravati,Maharashtra,Wheat,4.74,44.0,0.729340567612688,0.09243306646220473,365922.0,0.011833374293438191,Low,Champions,False,Monitor
+F02452,Chikhali,Amravati,Maharashtra,Wheat,2.91,41.0,0.7578084997439837,-0.0006660765272028524,274875.0,0.005319148936170213,Low,Loyal Core,False,Monitor
+F02453,Khategaon,Dewas,Madhya Pradesh,Mustard,2.04,59.0,0.5830851697438951,0.282852881706729,99266.0,0.05817921343035498,Low,Stable,False,Monitor
+F02454,Sakarda,Yavatmal,Maharashtra,Gram,0.99,25.0,0.7544910179640718,0.0072732119227363334,77228.7,0.017421182711435286,Low,Loyal Core,False,Monitor
+F02458,Garkheda,Aurangabad,Maharashtra,Mustard,2.65,57.0,0.4712264150943396,0.00118750458850303,151989.75,0.06406009431123585,Low,Stable,False,Monitor
+F02460,Piploda,Ratlam,Madhya Pradesh,Groundnut,1.35,87.0,0.9101123595505617,-0.023307162104254098,199449.40000000002,0.05817921343035498,Low,Stable,False,Monitor
+F02461,Pardi,Yavatmal,Maharashtra,Cotton,4.49,63.0,0.7814526588845655,0.15470739050107185,354636.25,0.013892732258307967,Low,Loyal Core,False,Monitor
+F02465,Sonkatch,Dewas,Madhya Pradesh,Mustard,3.35,-95.0,0.8325599381283837,0.39117640583576047,241754.0,0.03945935356191767,Low,Champions,False,Monitor
+F02466,Khachrod,Ujjain,Madhya Pradesh,Wheat,2.89,24.0,0.45965389850281935,-0.38996101840030184,195328.6,0.05817921343035498,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02468,Barnagar,Ujjain,Madhya Pradesh,Wheat,1.77,26.0,0.5914906277893484,-0.149856131178556,130467.8,0.026194068500450106,Low,Loyal Core,False,Monitor
+F02469,Bicholi,Indore,Madhya Pradesh,Wheat,2.35,43.0,0.407502679528403,-0.09768250565678216,118248.0,0.06406009431123585,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02472,Karmad,Aurangabad,Maharashtra,Mustard,3.41,35.0,0.45473684210526316,-0.04420158676947139,185828.4,0.07640577332358155,Low,Loyal Core,False,Monitor
+F02473,Ghatia,Ujjain,Madhya Pradesh,Wheat,1.94,46.0,0.2882165605095542,-0.14501959109394436,72578.95,0.1220343832412798,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02474,Udaynagar,Dewas,Madhya Pradesh,Mustard,2.43,31.0,0.44294213088155765,0.1538945118339386,91977.0,0.10714285714285715,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02475,Titrod,Ujjain,Madhya Pradesh,Wheat,1.39,19.0,0.5499825844653432,-0.27513665241859964,107345.05,0.033869809853699064,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02478,Udaynagar,Dewas,Madhya Pradesh,Mustard,6.64,29.0,0.7706388431264872,0.3295397973877574,466391.0,0.036597940045400304,Low,Champions,False,Monitor
+F02479,Vadki,Yavatmal,Maharashtra,Gram,3.04,77.0,0.4973797046212482,0.007514839756383396,167247.35,0.06406009431123585,Low,Stable,False,Monitor
+F02481,Unhel,Ujjain,Madhya Pradesh,Wheat,3.56,91.0,0.3421366501959448,-0.2457668283374303,175499.95,0.08520062385430734,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02483,Shahapur,Aurangabad,Maharashtra,Mustard,2.61,82.0,0.48792508624938397,0.04554098028911907,136509.3,0.08365594802658644,Low,Stable,False,Monitor
+F02486,Chandur K,Yavatmal,Maharashtra,Cotton,8.08,90.0,0.5142364106988784,0.07418965051183768,458421.45,0.05817921343035498,Low,Loyal Core,False,Monitor
+F02488,Ghatia,Ujjain,Madhya Pradesh,Wheat,3.95,74.0,0.14802448525319978,-0.31741980247599627,133876.9,0.1220343832412798,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02489,Chandur K,Yavatmal,Maharashtra,Gram,4.05,82.0,0.6301369863013698,0.06908544704159814,295021.0,0.04668830285516805,Low,Loyal Core,False,Monitor
+F02491,Dindori,Nashik,Maharashtra,Paddy,2.04,33.0,0.645961077046121,0.49954980447897,86340.2,0.06986390536867011,Low,Loyal Core,False,Monitor
+F02492,Mangliya,Indore,Madhya Pradesh,Wheat,3.27,86.0,0.43044271265130163,-0.2506099189276456,192108.0,0.06406009431123585,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02496,Fulsungi,Amravati,Maharashtra,Wheat,3.99,65.0,0.7846574661196072,0.0596510410360811,339088.5,0.005319148936170213,Low,Loyal Core,False,Monitor
+F02499,Vani,Nashik,Maharashtra,Paddy,2.1,20.0,0.7424629535002555,0.5911103936969915,96542.05,0.05086458313185371,Low,Loyal Core,False,Monitor
+F02501,Fulsungi,Amravati,Maharashtra,Wheat,2.44,33.0,0.5208382387567695,0.062431159110751755,130996.0,0.057634610926406614,Low,Loyal Core,False,Monitor
+F02503,Vani,Nashik,Maharashtra,Wheat,4.25,40.0,0.6844859813084112,0.49026498215515124,209123.25,0.04325891039137705,Low,Loyal Core,False,Monitor
+F02504,Khachrod,Ujjain,Madhya Pradesh,Wheat,2.54,46.0,0.21691586699397455,-0.6774888448276494,154936.9,0.07640577332358155,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02507,Mangliya,Indore,Madhya Pradesh,Wheat,3.14,54.0,0.4958677685950413,0.16851970229669877,145781.0,0.08681967927250946,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02508,Dabha,Yavatmal,Maharashtra,Cotton,2.55,31.0,0.47271714922049,0.014223471375520214,147430.8,0.08365594802658644,Low,Loyal Core,False,Monitor
+F02510,Khategaon,Dewas,Madhya Pradesh,Mustard,2.1,42.0,0.1535532994923858,-0.10796807752038493,48291.0,0.38472036214404676,Moderate,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02513,Kannod,Dewas,Madhya Pradesh,Mustard,11.27,22.0,0.8010680907877171,0.29260638542863704,810260.0,0.04265022971475034,Low,Champions,False,Monitor
+F02514,Chandur K,Yavatmal,Maharashtra,Gram,3.25,38.0,0.5183464932652114,0.031405368873887785,174412.5,0.05751822635632443,Low,Loyal Core,False,Monitor
+F02515,Karmad,Aurangabad,Maharashtra,Mustard,2.76,26.0,0.6963144963144963,-0.02043982374560893,240009.2,0.021509867957077912,Low,Champions,False,Monitor
+F02516,Eklara,Amravati,Maharashtra,Wheat,2.22,60.0,0.8225766871165645,-0.17273947213402108,223890.0,0.022946062715380525,Low,Loyal Core,False,Loyalty intervention: visit + advance-payment contract
+F02517,Fulsungi,Amravati,Maharashtra,Wheat,3.64,27.0,0.5732503888024885,0.052150644556964165,194317.0,0.02851878245643879,Low,Loyal Core,False,Monitor
+F02520,Shahapur,Aurangabad,Maharashtra,Mustard,1.51,64.0,0.18480000000000002,-0.23498798586572434,50750.700000000004,0.9377309682187731,Critical,Needs Attention,False,Loyalty intervention: visit + advance-payment contract
+F02525,Wadner,Amravati,Maharashtra,Wheat,3.21,33.0,0.5753840657377635,0.07367990759188758,180318.5,0.02708258769813618,Low,Loyal Core,False,Monitor
+F02529,Sanwer,Indore,Madhya Pradesh,Wheat,1.09,77.0,0.40314401622718055,-0.2625647960333558,64871.0,0.07131026901424076,Low,Needs Attention,True,Drought response: emergency liquidity + insurance linkage
+F02531,Palkhed,Nashik,Maharashtra,Wheat,3.82,51.0,0.878551853454493,0.7030103912072752,215294.45,0.033396325005214215,Low,Loyal Core,False,Monitor
+F02532,Padegaon,Aurangabad,Maharashtra,Mustard,1.2,63.0,0.6912242686890574,-0.11695489392048497,96983.7,0.04668830285516805,Low,Stable,False,Monitor
+F02533,Jaora,Ratlam,Madhya Pradesh,Groundnut,0.6,44.0,0.4381551362683438,-0.008364388349652863,38840.25,0.09253246753246754,Low,Stable,False,Monitor
+F02534,Khachrod,Ujjain,Madhya Pradesh,Other,2.01,28.0,0.05798657718120806,-0.43623834683095,56813.549999999996,0.08365594802658644,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02539,Titrod,Ujjain,Madhya Pradesh,Soybean,6.96,68.0,0.3031959629941127,-0.13666595561053851,264044.4,0.09253246753246754,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02540,Pardi,Yavatmal,Maharashtra,Cotton,2.57,17.0,0.5692051139521958,-0.041608590544592206,183288.8,0.033974887706075,Low,Champions,False,Monitor
+F02541,Garkheda,Aurangabad,Maharashtra,Mustard,2.26,21.0,0.45866666666666667,-0.0961151346332405,134308.75,0.06406009431123585,Low,Loyal Core,False,Monitor
+F02542,Khategaon,Dewas,Madhya Pradesh,Mustard,8.49,29.0,0.8497587870434183,0.25104910962406357,708404.0,0.04081672106584898,Low,Champions,False,Monitor
+F02543,Depalpur,Indore,Madhya Pradesh,Wheat,2.27,18.0,0.44836956521739124,-0.19489419189835833,137008.0,0.05222683247797403,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02547,Sailana,Ratlam,Madhya Pradesh,Groundnut,4.21,17.0,0.6915213469633193,0.08353508676580967,463805.95000000007,0.02060626008245301,Low,Champions,False,Monitor
+F02549,Piploda,Ratlam,Madhya Pradesh,Groundnut,0.95,71.0,0.1818181818181818,-0.360571028201086,55869.3,0.7845125164690383,Critical,Needs Attention,False,Loyalty intervention: visit + advance-payment contract
+F02550,Mangliya,Indore,Madhya Pradesh,Other,3.56,69.0,0.16381785860795842,-0.505495991455574,163517.0,0.1220343832412798,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02554,Vani,Nashik,Maharashtra,Wheat,1.34,45.0,0.5272938443670151,0.4180411753278692,45338.200000000004,0.05817921343035498,Low,Stable,False,Monitor
+F02556,Dindori,Nashik,Maharashtra,Paddy,3.28,51.0,0.6533858267716536,0.5255997940822034,138565.75,0.05751822635632443,Low,Stable,False,Monitor
+F02559,Dabha,Yavatmal,Maharashtra,Cotton,9.06,19.0,0.7678843226788432,0.0755647668491084,765177.3999999999,0.024774123887905876,Low,Champions,False,Monitor
+F02561,Sonkatch,Dewas,Madhya Pradesh,Mustard,1.42,67.0,0.30927835051546393,-0.2034998852635963,65139.0,0.15060581181270835,Low,Needs Attention,True,Drought response: emergency liquidity + insurance linkage
+F02563,Vani,Nashik,Maharashtra,Wheat,1.86,56.0,0.8718481162859686,0.6203159405964895,116095.54999999999,0.051565845403943475,Low,Stable,False,Monitor
+F02564,Palkhed,Nashik,Maharashtra,Wheat,4.97,31.0,0.8444444444444446,0.6233748503262051,268048.05,0.03214137905717364,Low,Champions,False,Monitor
+F02566,Sonkatch,Dewas,Madhya Pradesh,Mustard,3.38,-96.0,0.24606525911708255,-0.20703910019599542,130515.0,0.24021620142309796,Moderate,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02568,Nagda,Ujjain,Madhya Pradesh,Wheat,2.3,71.0,0.3932898415657037,-0.3167960924008274,145536.5,0.08365594802658644,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02569,Khachrod,Ujjain,Madhya Pradesh,Soybean,3.15,22.0,0.49633601429848084,-0.2424366973916119,198693.9,0.05751822635632443,Low,Champions,True,Drought response: emergency liquidity + insurance linkage
+F02573,Sailana,Ratlam,Madhya Pradesh,Mustard,1.4,48.0,0.5385375494071146,0.033611441032730394,110280.8,0.05817921343035498,Low,Stable,False,Monitor
+F02578,Eklara,Amravati,Maharashtra,Wheat,2.75,67.0,0.5749293119698399,0.0066473736438485975,170500.0,0.03343882574897723,Low,Stable,False,Monitor
+F02579,Depalpur,Indore,Madhya Pradesh,Wheat,4.12,43.0,0.291582406471183,-0.22937116943847818,184369.0,0.1220343832412798,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02580,Dabha,Yavatmal,Maharashtra,Gram,2.62,65.0,0.40247678018575855,-0.08139418755617689,122938.0,0.10714285714285715,Low,Stable,False,Monitor
+F02582,Pardi,Yavatmal,Maharashtra,Gram,2.9,23.0,0.45508390918065167,-0.10196307068512012,172721.6,0.07131026901424076,Low,Loyal Core,False,Monitor
+F02584,Bicholi,Indore,Madhya Pradesh,Wheat,3.02,42.0,0.1579551040471899,-0.3257523543163148,111954.0,0.206024531024531,Moderate,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02585,Sakarda,Yavatmal,Maharashtra,Gram,2.97,21.0,0.627,0.04941379310344829,195902.2,0.02851878245643879,Low,Champions,False,Monitor
+F02587,Chandur K,Yavatmal,Maharashtra,Gram,2.18,51.0,0.8523351648351649,0.0617285112148126,204376.59999999998,0.02561413422649466,Low,Loyal Core,False,Monitor
+F02588,Sailana,Ratlam,Madhya Pradesh,Mustard,4.9,72.0,0.5157054582904222,-0.00047885244834400265,360772.69999999995,0.03557067278121521,Low,Loyal Core,False,Monitor
+F02589,Vani,Nashik,Maharashtra,Wheat,2.12,24.0,0.7484003071410289,0.6235637058338394,98888.0,0.05133806798033856,Low,Loyal Core,False,Monitor
+F02590,Wadner,Amravati,Maharashtra,Wheat,2.36,40.0,0.5830494037478705,-0.0948000586177209,175844.0,0.027630263258752723,Low,Loyal Core,False,Monitor
+F02592,Kampel,Indore,Madhya Pradesh,Wheat,2.94,66.0,0.2685725032913297,-0.19422172601770604,112559.0,0.24453370242912909,Moderate,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02595,Chandur K,Yavatmal,Maharashtra,Gram,2.04,33.0,0.5546099290780142,0.06455311089619598,123687.1,0.04348668781498197,Low,Loyal Core,False,Monitor
+F02596,Sanwer,Indore,Madhya Pradesh,Wheat,2.64,21.0,0.48872021927050385,-0.10096037041008582,148008.0,0.04668830285516805,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02599,Depalpur,Indore,Madhya Pradesh,Wheat,4.99,52.0,0.46776155717761553,-0.2844142478702521,345314.0,0.06406009431123585,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02605,Sakarda,Yavatmal,Maharashtra,Gram,2.03,18.0,0.804654442877292,0.08761512136611227,161091.3,0.01975501513671988,Low,Champions,False,Monitor
+F02607,Udaynagar,Dewas,Madhya Pradesh,Mustard,3.33,37.0,0.7364016736401673,0.3197634192930824,220209.0,0.052702168663186784,Low,Loyal Core,False,Monitor
+F02608,Jaora,Ratlam,Madhya Pradesh,Mustard,1.32,34.0,0.4078947368421053,-0.05423173987783908,87442.25,0.06722382555715889,Low,Stable,False,Monitor
+F02609,Hiwra,Aurangabad,Maharashtra,Other,1.69,42.0,0.605471562275018,0.024550509643439078,119286.4,0.03860914526620654,Low,Loyal Core,False,Monitor
+F02610,Karmad,Aurangabad,Maharashtra,Mustard,3.94,36.0,0.48817135549872126,0.09263615229322619,204098.55,0.07640577332358155,Low,Loyal Core,False,Monitor
+F02611,Chikhali,Amravati,Maharashtra,Wheat,2.13,42.0,0.31038894575230297,-0.013508713474697565,70540.5,0.944359756097561,Critical,Stable,False,Loyalty intervention: visit + advance-payment contract
+F02612,Khachrod,Ujjain,Madhya Pradesh,Wheat,2.62,29.0,0.30391743892165124,-0.26131843018162115,120473.20000000001,0.15060581181270835,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02613,Barnagar,Ujjain,Madhya Pradesh,Other,2.66,55.0,0.45352323838080955,-0.24712470978333734,160587.6,0.06406009431123585,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02615,Khategaon,Dewas,Madhya Pradesh,Mustard,2.99,37.0,0.5968346522282383,0.06394247628429117,189232.0,0.0473492899291986,Low,Loyal Core,False,Monitor
+F02616,Bagli,Dewas,Madhya Pradesh,Mustard,1.35,39.0,0.26500461680517085,-0.09021690218217088,48725.0,0.39825396825396825,Moderate,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02617,Dhanora,Amravati,Maharashtra,Soybean,3.18,48.0,0.7217376133984648,0.10412176621063307,228204.0,0.024177939468192043,Low,Loyal Core,False,Monitor
+F02619,Borgaon,Amravati,Maharashtra,Soybean,1.83,40.0,0.4342653182629388,0.010984894982515536,86890.0,0.09479717813051147,Low,Stable,False,Monitor
+F02620,Piploda,Ratlam,Madhya Pradesh,Mustard,1.63,24.0,0.4788838612368024,-0.0301556867857965,128097.45,0.07131026901424076,Low,Loyal Core,False,Monitor
+F02621,Nagda,Ujjain,Madhya Pradesh,Soybean,1.32,82.0,0.2921437031188314,-0.1623284967200082,52968.4,0.09253246753246754,Low,At Risk,True,Drought response: emergency liquidity + insurance linkage
+F02622,Chikhali,Amravati,Maharashtra,Other,3.73,31.0,0.6157082748948106,0.0816067488904505,226640.0,0.029881031802559105,Low,Loyal Core,False,Monitor
+F02623,Khategaon,Dewas,Madhya Pradesh,Mustard,2.61,64.0,0.6956952003958436,0.32262766581488356,164773.0,0.07640577332358155,Low,Stable,False,Monitor
+F02625,Kampel,Indore,Madhya Pradesh,Soybean,0.98,73.0,0.29424083769633513,-0.2595869134998372,44459.0,0.16521620142309798,Low,At Risk,True,Drought response: emergency liquidity + insurance linkage
+F02627,Udaynagar,Dewas,Madhya Pradesh,Mustard,2.5,41.0,0.5243215565796211,0.20105871670046704,123640.0,0.08365594802658644,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02628,Hiwra,Aurangabad,Maharashtra,Mustard,0.87,40.0,0.48240469208211134,0.0017073072751375151,45970.2,0.08936873628654451,Low,Stable,False,Monitor
+F02630,Tal,Ratlam,Madhya Pradesh,Mustard,5.11,33.0,0.5268536638399652,-0.017916978361869562,439734.7,0.03557067278121521,Low,Champions,False,Monitor
+F02631,Depalpur,Indore,Madhya Pradesh,Wheat,1.06,19.0,0.3807763401109057,-0.15738025057293975,55358.0,0.09253246753246754,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02633,Sakarda,Yavatmal,Maharashtra,Gram,2.35,41.0,0.4522378089512358,-0.08723587525929055,139251.25,0.07131026901424076,Low,Stable,False,Monitor
+F02634,Garkheda,Aurangabad,Maharashtra,Mustard,2.74,58.0,0.5770447356529598,0.05757464332056317,172269.85,0.05222683247797403,Low,Stable,False,Monitor
+F02635,Hiwra,Aurangabad,Maharashtra,Mustard,2.33,20.0,0.7119450317124736,0.7119450317124736,93885.9,0.05817921343035498,Low,Stable,False,Monitor
+F02636,Ambodi,Yavatmal,Maharashtra,Gram,1.37,68.0,0.5695509309967142,-0.07227101517305823,94585.0,0.05222683247797403,Low,At Risk,False,Monitor
+F02637,Dabha,Yavatmal,Maharashtra,Cotton,2.99,76.0,0.6700507614213198,0.04481175568518214,210417.15,0.027678772117850005,Low,Stable,False,Monitor
+F02638,Ozar,Nashik,Maharashtra,Paddy,4.41,23.0,0.30535755346056564,0.23788131270026996,92350.85,0.8683575666842462,Critical,Stable,False,Loyalty intervention: visit + advance-payment contract
+F02640,Khategaon,Dewas,Madhya Pradesh,Mustard,5.35,62.0,0.2668802365697388,0.07657647475119123,134639.0,0.34348852986188894,Moderate,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02641,Dabha,Yavatmal,Maharashtra,Cotton,4.08,18.0,0.6126382306477093,-0.11483191050321373,322937.75,0.025342823554716974,Low,Champions,False,Monitor
+F02642,Jatwada,Aurangabad,Maharashtra,Soybean,1.94,44.0,0.5270358306188926,0.020849103959724946,113696.1,0.06406009431123585,Low,Stable,False,Monitor
+F02643,Sirsam,Nashik,Maharashtra,Paddy,6.34,55.0,0.31345682144971665,0.23570840284134126,136002.8,0.7546212121212121,Critical,Stable,False,Loyalty intervention: visit + advance-payment contract
+F02645,Pardi,Yavatmal,Maharashtra,Gram,3.93,36.0,0.6281273692191054,-0.11439583463101499,336941.85,0.02679025292016394,Low,Loyal Core,False,Monitor
+F02646,Sanwer,Indore,Madhya Pradesh,Wheat,2.34,29.0,0.36603773584905663,-0.2655412115193644,126199.0,0.1220343832412798,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02647,Piploda,Ratlam,Madhya Pradesh,Groundnut,1.26,20.0,0.7263157894736841,0.012231282431430568,147451.5,0.028152502266284254,Low,Loyal Core,False,Monitor
+F02648,Shahapur,Aurangabad,Maharashtra,Mustard,1.28,41.0,0.7277179236043095,0.07189600579609035,101250.7,0.04081672106584898,Low,Stable,False,Monitor
+F02650,Chikhali,Amravati,Maharashtra,Wheat,1.5,34.0,0.6488805970149255,0.03945567688712992,95247.0,0.03645919197890128,Low,Stable,False,Monitor
+F02652,Ghatia,Ujjain,Madhya Pradesh,Soybean,4.26,47.0,0.21151319718141645,-0.1984946623941665,142903.65,0.15060581181270835,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02653,Nagda,Ujjain,Madhya Pradesh,Wheat,1.54,27.0,0.29860365198711064,-0.19243083077151013,65599.59999999999,0.08972290835101357,Low,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02654,Kannod,Dewas,Madhya Pradesh,Mustard,0.6,59.0,0.7278761061946902,0.3842397425583266,34885.0,0.07052489244270066,Low,Needs Attention,False,Monitor
+F02655,Unhel,Ujjain,Madhya Pradesh,Wheat,2.62,69.0,0.3473198152981329,0.0,46796.5,0.22063492063492063,Moderate,Severing,True,Drought response: emergency liquidity + insurance linkage
+F02656,Eklara,Amravati,Maharashtra,Wheat,2.07,91.0,0.4209577754891865,0.0,44145.0,0.10714285714285715,Low,Severing,False,Monitor
+F02657,Piploda,Ratlam,Madhya Pradesh,Mustard,4.03,44.0,0.20486555697823305,0.0,47296.0,0.975609756097561,Critical,Needs Attention,False,Loyalty intervention: visit + advance-payment contract
+F02658,Jatwada,Aurangabad,Maharashtra,Mustard,3.87,90.0,0.2885732730794061,0.0,62133.0,0.9377309682187731,Critical,Severing,False,Loyalty intervention: visit + advance-payment contract
+F02659,Nagda,Ujjain,Madhya Pradesh,Wheat,0.83,38.0,0.5424430641821946,0.0,22479.6,0.07131026901424076,Low,Needs Attention,True,Drought response: emergency liquidity + insurance linkage
+F02660,Piploda,Ratlam,Madhya Pradesh,Mustard,1.85,27.0,0.6162409954158481,0.0,66763.95,0.03250780580752815,Low,Stable,False,Monitor
+F02661,Sakarda,Yavatmal,Maharashtra,Gram,1.48,30.0,0.7386888273314867,0.0,56922.0,0.0274915151922537,Low,Stable,False,Monitor
+F02662,Tal,Ratlam,Madhya Pradesh,Mustard,3.59,28.0,0.6444284168770286,0.0,136526.8,0.026044085826806736,Low,Stable,False,Monitor
+F02663,Bicholi,Indore,Madhya Pradesh,Wheat,4.09,43.0,0.07240730789897905,0.0,15874.0,0.4735692818588926,High,Needs Attention,True,Drought response: emergency liquidity + insurance linkage
+F02664,Sakarda,Yavatmal,Maharashtra,Gram,2.49,34.0,0.8207705192629817,0.0,108850.5,0.02060626008245301,Low,Stable,False,Monitor
+F02665,Depalpur,Indore,Madhya Pradesh,Wheat,2.37,49.0,0.3885502829777971,0.0,51319.0,0.2749578585088912,Moderate,At Risk,True,Drought response: emergency liquidity + insurance linkage
+F02666,Jatwada,Aurangabad,Maharashtra,Mustard,2.46,16.0,0.2691757979990471,0.0,42007.75,0.975609756097561,Critical,Stable,False,Loyalty intervention: visit + advance-payment contract
+F02667,Dindori,Nashik,Maharashtra,Wheat,0.94,78.0,0.4559252772913018,0.0,22375.65,0.1211038961038961,Low,Severing,False,Monitor
+F02668,Nagda,Ujjain,Madhya Pradesh,Wheat,1.68,77.0,0.3630470016207456,0.0,33625.95,0.16521620142309798,Low,Severing,True,Drought response: emergency liquidity + insurance linkage
+F02669,Sonkatch,Dewas,Madhya Pradesh,Mustard,1.69,35.0,0.26572958500669347,0.0,28882.0,0.41899209058896353,High,Needs Attention,True,Drought response: emergency liquidity + insurance linkage
+F02670,Dindori,Nashik,Maharashtra,Wheat,2.96,33.0,0.699796409402184,0.0,110594.25,0.026895330772539867,Low,Stable,False,Monitor
+F02671,Bicholi,Indore,Madhya Pradesh,Wheat,12.0,45.0,0.10853960396039605,0.0,66433.0,0.47875582441827735,High,Needs Attention,True,Drought response: emergency liquidity + insurance linkage
+F02672,Sirsam,Nashik,Maharashtra,Wheat,3.68,24.0,0.7324608126616953,0.0,140058.3,0.03255030655129117,Low,Stable,False,Monitor
+F02673,Borgaon,Amravati,Maharashtra,Wheat,1.05,23.0,0.3758252920264094,0.0,20692.0,0.662142857142857,Critical,Stable,False,Loyalty intervention: visit + advance-payment contract
+F02674,Garkheda,Aurangabad,Maharashtra,Mustard,5.06,22.0,0.4418490287681337,0.0,128485.5,0.08365594802658644,Low,Loyal Core,False,Monitor
+F02675,Jatwada,Aurangabad,Maharashtra,Mustard,2.67,63.0,0.4656188605108055,0.0,74181.0,0.07131026901424076,Low,At Risk,False,Monitor
+F02676,Sonkatch,Dewas,Madhya Pradesh,Mustard,6.26,87.0,0.506080816006277,0.0,194950.0,0.05817921343035498,Low,Needs Attention,True,Drought response: emergency liquidity + insurance linkage
+F02677,Titrod,Ujjain,Madhya Pradesh,Wheat,6.21,40.0,0.30078360458107295,0.0,101966.4,0.27107450424750523,Moderate,Stable,True,Drought response: emergency liquidity + insurance linkage
+F02678,Mangliya,Indore,Madhya Pradesh,Wheat,3.18,51.0,0.15098777046095954,0.0,27253.0,0.4769916495329787,High,At Risk,True,Drought response: emergency liquidity + insurance linkage
+F02679,Pardi,Yavatmal,Maharashtra,Gram,8.65,16.0,0.601422870032969,0.0,236554.5,0.033211293625321714,Low,Loyal Core,False,Monitor
+F02680,Sirsam,Nashik,Maharashtra,Wheat,5.66,29.0,0.5909423604757548,0.0,197645.4,0.03343882574897723,Low,Loyal Core,False,Monitor
+F02681,Namli,Ratlam,Madhya Pradesh,Mustard,5.74,73.0,0.22795146990200657,0.0,73376.05,0.9377309682187731,Critical,Severing,False,Loyalty intervention: visit + advance-payment contract
+F02682,Vani,Nashik,Maharashtra,Wheat,2.24,28.0,0.7855461393596986,0.0,95938.75,0.02679025292016394,Low,Stable,False,Monitor
+F02683,Bicholi,Indore,Madhya Pradesh,Wheat,0.72,42.0,0.15511079342387418,0.0,6000.0,0.36451365885675485,Moderate,Needs Attention,True,Drought response: emergency liquidity + insurance linkage
+F02684,Namli,Ratlam,Madhya Pradesh,Mustard,1.5,40.0,0.17166666666666666,0.0,15089.5,0.944359756097561,Critical,Needs Attention,False,Loyalty intervention: visit + advance-payment contract
+F02685,Sakarda,Yavatmal,Maharashtra,Gram,1.87,85.0,0.22081784386617104,0.0,21443.399999999998,0.9377309682187731,Critical,Severing,False,Loyalty intervention: visit + advance-payment contract
+F02686,Depalpur,Indore,Madhya Pradesh,Wheat,11.06,45.0,0.407717803030303,0.0,239385.0,0.09253246753246754,Low,Loyal Core,True,Drought response: emergency liquidity + insurance linkage
+F02687,Khategaon,Dewas,Madhya Pradesh,Mustard,1.82,71.0,0.23985765124555158,0.0,25814.0,0.4237845497238199,High,Severing,True,Drought response: emergency liquidity + insurance linkage
+F02688,Unhel,Ujjain,Madhya Pradesh,Wheat,7.9,43.0,0.19315183111282747,0.0,82977.65,0.3053751803751804,Moderate,Needs Attention,True,Drought response: emergency liquidity + insurance linkage
+F02689,Namli,Ratlam,Madhya Pradesh,Mustard,3.2,18.0,0.35975103734439834,0.0,63002.0,0.73,Critical,Stable,False,Loyalty intervention: visit + advance-payment contract
+F02690,Sirsam,Nashik,Maharashtra,Wheat,1.01,25.0,0.2651209677419355,0.0,15464.4,0.9114151787450889,Critical,Stable,False,Loyalty intervention: visit + advance-payment contract

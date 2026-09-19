@@ -1,0 +1,1691 @@
+farmer_id,village,district,state,gid,lat,lon,landholding_acres,collection_distance_km,join_year
+F01001,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,1.48,23.4,2018
+F01002,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,1.16,22.4,2016
+F01003,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,1.47,20.8,2017
+F01004,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,1.58,21.0,2019
+F01005,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,5.33,22.9,2016
+F01006,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,1.41,21.5,2017
+F01007,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,2.16,20.7,2017
+F01008,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,1.43,25.7,2015
+F01009,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,1.45,21.7,2017
+F01010,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,2.12,22.7,2019
+F01011,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,4.54,20.8,2015
+F01012,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,3.0,21.2,2017
+F01013,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,2.83,21.2,2019
+F01014,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,1.46,21.9,2019
+F01015,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,4.0,23.0,2017
+F01016,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,1.49,22.0,2017
+F01017,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,3.6,21.4,2018
+F01018,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,3.21,20.9,2015
+F01019,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,2.32,21.6,2018
+F01020,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,0.73,21.6,2015
+F01021,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,2.25,24.7,2015
+F01022,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,1.7,23.4,2017
+F01023,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,1.81,20.3,2017
+F01024,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,8.15,21.8,2015
+F01025,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,7.55,20.3,2017
+F01026,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,2.73,20.0,2018
+F01027,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,2.19,20.3,2017
+F01028,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,3.36,19.8,2019
+F01029,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,2.34,22.5,2019
+F01030,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,0.7,21.3,2018
+F01031,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,3.06,20.2,2016
+F01032,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,1.82,22.5,2017
+F01033,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,1.38,21.0,2017
+F01034,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,1.29,21.2,2018
+F01035,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,1.03,20.1,2018
+F01036,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,1.85,20.4,2018
+F01037,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,1.41,22.6,2017
+F01038,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,7.18,21.8,2019
+F01039,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,2.49,20.6,2016
+F01040,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,3.22,20.9,2017
+F01041,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,4.39,21.2,2015
+F01042,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,3.54,19.6,2016
+F01043,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,4.84,21.5,2016
+F01044,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,3.99,24.1,2016
+F01045,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,2.62,23.7,2019
+F01046,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,0.97,22.2,2019
+F01047,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,1.27,23.2,2017
+F01048,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,0.97,21.7,2017
+F01049,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,2.18,20.8,2016
+F01050,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,5.07,17.5,2017
+F01051,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,2.47,20.7,2015
+F01052,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,3.28,16.3,2015
+F01053,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,3.87,18.3,2015
+F01054,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,5.16,17.7,2018
+F01055,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,2.75,15.6,2018
+F01056,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,4.91,15.4,2018
+F01057,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,2.71,16.7,2016
+F01058,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,5.03,15.0,2019
+F01059,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,2.6,14.6,2019
+F01060,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,2.94,16.4,2018
+F01061,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,3.12,14.9,2017
+F01062,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,4.09,15.2,2017
+F01063,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,1.46,14.9,2017
+F01064,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,5.0,15.3,2017
+F01065,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,1.62,16.2,2017
+F01066,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,3.32,15.2,2016
+F01067,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,1.57,20.0,2019
+F01068,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,3.72,14.4,2016
+F01069,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,3.46,17.0,2018
+F01070,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,2.13,15.2,2016
+F01071,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,1.78,16.9,2015
+F01072,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,3.37,16.4,2015
+F01073,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,2.13,16.3,2016
+F01074,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,1.08,15.1,2015
+F01075,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,6.04,15.8,2017
+F01076,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,2.35,14.7,2016
+F01077,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,3.88,13.1,2019
+F01078,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,1.5,14.0,2015
+F01079,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,1.84,15.4,2016
+F01080,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,6.05,12.7,2015
+F01081,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,2.69,12.0,2019
+F01082,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,1.53,17.0,2016
+F01083,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,1.79,15.6,2015
+F01084,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,1.09,15.7,2015
+F01085,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,3.29,14.0,2017
+F01086,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,3.36,12.8,2019
+F01087,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,4.41,12.7,2016
+F01088,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,0.99,14.1,2019
+F01089,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,4.98,12.9,2015
+F01090,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,1.63,13.9,2015
+F01091,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,3.92,13.7,2017
+F01092,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,2.4,15.0,2017
+F01093,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,6.94,13.4,2018
+F01094,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,0.75,16.1,2016
+F01095,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,1.22,13.2,2016
+F01096,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,5.39,12.9,2015
+F01097,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,1.75,15.8,2018
+F01098,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,1.37,13.4,2019
+F01099,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,3.23,13.1,2018
+F01100,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,1.55,12.3,2017
+F01101,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,0.72,9.5,2018
+F01102,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.52,11.4,2015
+F01103,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,3.48,9.2,2015
+F01104,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,4.7,8.9,2018
+F01105,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,3.71,8.8,2015
+F01106,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,0.99,13.3,2016
+F01107,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.8,11.8,2016
+F01108,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,1.93,10.3,2019
+F01109,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,1.98,9.0,2015
+F01110,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.79,9.8,2016
+F01111,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.47,11.5,2016
+F01112,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,3.76,9.2,2016
+F01113,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.7,9.8,2016
+F01114,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.71,10.8,2018
+F01115,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,3.07,8.6,2019
+F01116,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.2,12.4,2016
+F01117,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.25,11.0,2019
+F01118,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.73,11.5,2019
+F01119,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,1.83,9.9,2016
+F01120,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,3.05,9.9,2016
+F01121,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,1.06,9.5,2017
+F01122,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,0.79,11.7,2015
+F01123,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.01,9.6,2017
+F01124,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,0.9,11.0,2019
+F01125,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,2.11,19.4,2016
+F01126,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,1.88,18.2,2015
+F01127,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,6.61,21.4,2017
+F01128,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,1.67,18.7,2015
+F01129,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,3.3,19.9,2015
+F01130,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,1.81,17.6,2015
+F01131,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,1.98,17.8,2017
+F01132,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,3.74,19.9,2016
+F01133,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,1.17,18.4,2019
+F01134,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,1.9,17.7,2017
+F01135,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,1.84,18.9,2017
+F01136,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,3.98,20.4,2019
+F01137,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,2.76,18.7,2018
+F01138,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,2.11,18.3,2017
+F01139,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,1.55,17.9,2016
+F01140,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,1.55,20.2,2016
+F01141,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,2.67,18.8,2015
+F01142,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,1.5,21.3,2018
+F01143,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,2.02,18.5,2019
+F01144,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,1.7,19.8,2018
+F01145,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,1.46,19.4,2016
+F01146,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,1.47,22.4,2016
+F01147,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,3.38,18.0,2019
+F01148,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,0.87,19.8,2017
+F01149,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,2.06,22.8,2018
+F01150,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,4.1,17.7,2019
+F01151,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,0.7,20.6,2017
+F01152,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,4.14,21.7,2015
+F01153,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,2.9,17.9,2018
+F01154,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,1.77,21.4,2019
+F01155,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,1.04,23.2,2018
+F01156,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,1.61,21.5,2019
+F01157,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,0.72,23.9,2019
+F01158,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,2.75,22.8,2015
+F01159,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,3.97,21.6,2017
+F01160,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,2.39,22.4,2016
+F01161,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,2.92,24.5,2015
+F01162,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,2.6,22.4,2019
+F01163,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,5.08,21.6,2016
+F01164,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,3.53,24.4,2019
+F01165,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,3.5,21.2,2015
+F01166,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,1.99,24.3,2018
+F01167,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,3.17,24.2,2018
+F01168,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,2.5,22.8,2018
+F01169,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,3.66,21.8,2016
+F01170,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,2.91,22.8,2016
+F01171,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,1.7,22.2,2019
+F01172,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,2.52,23.3,2017
+F01173,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,1.96,23.0,2015
+F01174,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,1.77,21.7,2016
+F01175,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,6.15,21.7,2015
+F01176,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,1.29,21.6,2019
+F01177,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,2.36,21.4,2019
+F01178,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,2.37,14.1,2019
+F01179,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,3.71,13.8,2017
+F01180,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,1.35,13.2,2018
+F01181,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,3.97,12.2,2019
+F01182,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,3.21,11.8,2018
+F01183,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,2.26,12.3,2019
+F01184,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,2.13,11.7,2015
+F01185,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,2.44,15.1,2017
+F01186,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,2.37,13.2,2019
+F01187,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,1.65,12.0,2015
+F01188,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,3.56,13.9,2018
+F01189,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,4.87,12.8,2015
+F01190,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,4.45,13.3,2015
+F01191,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,1.99,16.2,2019
+F01192,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,4.26,14.4,2016
+F01193,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,5.21,12.0,2017
+F01194,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,3.48,15.6,2018
+F01195,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,4.58,12.9,2018
+F01196,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,3.0,14.6,2018
+F01197,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,1.34,12.4,2017
+F01198,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,2.14,13.7,2019
+F01199,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,3.9,12.3,2016
+F01200,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,2.44,12.1,2018
+F01201,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,1.39,13.1,2018
+F01202,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,4.17,13.3,2015
+F01203,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,2.01,13.5,2019
+F01204,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,3.95,6.5,2015
+F01205,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,2.88,5.4,2015
+F01206,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,1.4,6.0,2019
+F01207,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,2.97,5.7,2017
+F01208,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,3.77,6.6,2018
+F01209,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,3.67,7.9,2019
+F01210,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,2.73,7.0,2016
+F01211,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,3.1,5.0,2017
+F01212,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,2.72,5.4,2015
+F01213,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,4.75,7.2,2019
+F01214,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,4.89,6.8,2017
+F01215,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,3.23,5.5,2016
+F01216,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,2.09,6.0,2019
+F01217,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,1.89,5.0,2016
+F01218,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,1.97,5.2,2016
+F01219,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,3.04,6.2,2018
+F01220,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,1.06,8.3,2016
+F01221,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,2.15,7.4,2019
+F01222,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,2.23,5.4,2019
+F01223,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,7.31,5.7,2019
+F01224,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,1.58,5.9,2015
+F01225,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,2.54,5.1,2019
+F01226,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,1.52,5.6,2017
+F01227,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,4.45,18.3,2015
+F01228,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,1.26,19.3,2015
+F01229,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,0.8,15.2,2015
+F01230,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,1.54,18.0,2019
+F01231,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,6.44,16.2,2015
+F01232,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,1.74,18.3,2016
+F01233,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,3.37,15.8,2018
+F01234,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,3.55,17.2,2017
+F01235,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,2.37,16.6,2019
+F01236,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,2.88,16.4,2016
+F01237,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,5.46,15.9,2015
+F01238,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,1.05,15.2,2018
+F01239,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,3.11,17.2,2015
+F01240,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,1.28,15.6,2018
+F01241,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,2.67,16.8,2018
+F01242,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,2.37,17.3,2016
+F01243,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,1.78,16.3,2016
+F01244,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,1.26,16.5,2018
+F01245,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,3.61,16.1,2018
+F01246,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,4.35,17.9,2017
+F01247,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,1.99,16.1,2015
+F01248,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,1.84,15.6,2016
+F01249,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,2.51,16.0,2015
+F01250,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,0.92,17.0,2017
+F01251,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,2.18,26.0,2016
+F01252,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,4.89,25.8,2018
+F01253,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,1.4,25.8,2019
+F01254,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,7.19,25.6,2017
+F01255,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,2.08,26.9,2017
+F01256,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,1.29,27.7,2015
+F01257,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,2.25,28.3,2015
+F01258,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,1.07,27.5,2018
+F01259,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,3.23,27.6,2018
+F01260,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,4.76,27.8,2018
+F01261,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,2.52,30.2,2019
+F01262,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,3.46,27.0,2017
+F01263,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,2.26,26.1,2019
+F01264,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,1.47,26.6,2018
+F01265,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,2.18,27.8,2015
+F01266,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,2.89,28.5,2019
+F01267,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,2.84,26.8,2016
+F01268,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,2.69,26.2,2015
+F01269,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,2.87,25.6,2018
+F01270,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,2.09,27.2,2019
+F01271,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,0.99,26.3,2018
+F01272,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,2.64,26.7,2018
+F01273,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,3.92,26.0,2016
+F01274,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,1.49,32.3,2018
+F01275,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,1.64,26.2,2018
+F01276,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,1.72,14.1,2017
+F01277,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,2.12,15.3,2015
+F01278,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,3.5,13.8,2015
+F01279,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,5.55,16.7,2018
+F01280,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,4.93,16.1,2016
+F01281,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,1.46,13.4,2018
+F01282,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,4.81,13.9,2017
+F01283,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,1.29,17.0,2018
+F01284,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,1.79,14.2,2015
+F01285,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,4.75,13.3,2016
+F01286,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,3.64,19.4,2019
+F01287,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,7.14,15.3,2016
+F01288,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,3.17,14.1,2016
+F01289,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,7.62,14.0,2016
+F01290,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,4.21,13.6,2018
+F01291,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,1.06,15.9,2019
+F01292,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,6.09,14.4,2017
+F01293,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,3.09,15.6,2015
+F01294,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,3.48,17.1,2017
+F01295,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,1.44,16.1,2016
+F01296,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,3.21,14.5,2016
+F01297,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,1.79,14.3,2018
+F01298,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,2.18,14.8,2019
+F01299,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,4.03,14.8,2015
+F01300,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,2.22,14.9,2018
+F01301,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,1.41,10.2,2016
+F01302,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,1.78,9.6,2017
+F01303,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,2.29,9.9,2017
+F01304,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,3.17,10.7,2018
+F01305,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,1.02,9.8,2016
+F01306,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,3.91,8.9,2016
+F01307,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,1.8,10.0,2015
+F01308,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,3.22,9.9,2017
+F01309,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,2.01,10.1,2015
+F01310,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,1.55,10.8,2017
+F01311,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,1.77,13.9,2018
+F01312,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,3.03,11.5,2017
+F01313,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,1.14,9.3,2016
+F01314,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,2.61,10.4,2019
+F01315,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,4.79,10.6,2017
+F01316,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,2.98,11.1,2016
+F01317,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,4.26,10.5,2016
+F01318,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,0.99,10.6,2019
+F01319,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,3.07,12.1,2018
+F01320,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,3.73,9.3,2018
+F01321,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,1.26,8.9,2018
+F01322,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,3.33,9.8,2015
+F01323,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,2.7,9.6,2017
+F01324,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,5.83,10.0,2017
+F01325,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,2.54,9.2,2015
+F01326,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,1.82,8.6,2016
+F01327,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,2.74,9.9,2016
+F01328,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,1.84,8.0,2018
+F01329,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,1.62,7.7,2018
+F01330,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,1.53,8.5,2017
+F01331,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,4.44,8.2,2015
+F01332,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,6.74,8.6,2016
+F01333,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,2.38,11.3,2015
+F01334,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,0.81,8.7,2016
+F01335,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,3.13,7.8,2019
+F01336,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,1.01,11.3,2016
+F01337,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,3.29,9.6,2019
+F01338,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,3.28,9.1,2018
+F01339,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,4.23,9.0,2018
+F01340,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,5.18,7.6,2019
+F01341,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,4.27,9.6,2019
+F01342,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,2.65,9.6,2018
+F01343,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,2.53,11.3,2018
+F01344,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,3.84,10.1,2017
+F01345,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,1.54,9.5,2017
+F01346,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,2.28,7.5,2015
+F01347,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,2.48,8.5,2017
+F01348,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,3.26,8.4,2015
+F01349,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,2.6,10.1,2019
+F01350,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,1.15,10.7,2019
+F01351,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,1.54,11.6,2016
+F01352,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,2.95,8.7,2016
+F01353,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,2.28,10.1,2016
+F01354,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,5.02,9.0,2019
+F01355,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,4.19,10.4,2016
+F01356,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,4.01,8.8,2015
+F01357,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,4.0,9.7,2016
+F01358,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,1.13,11.2,2015
+F01359,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,7.71,10.2,2017
+F01360,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,1.59,7.9,2015
+F01361,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,5.97,10.8,2016
+F01362,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,3.95,9.9,2016
+F01363,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,3.54,8.0,2019
+F01364,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,2.9,7.4,2018
+F01365,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,2.33,7.2,2015
+F01366,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,7.79,8.3,2017
+F01367,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,5.58,7.8,2019
+F01368,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,1.56,7.7,2018
+F01369,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,0.99,9.6,2017
+F01370,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,3.99,9.8,2015
+F01371,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,2.54,8.6,2017
+F01372,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,1.79,8.4,2017
+F01373,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,5.3,7.5,2019
+F01374,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,3.53,7.5,2019
+F01375,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,2.1,7.7,2017
+F01376,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,1.93,7.1,2015
+F01377,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,1.55,6.5,2015
+F01378,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,4.06,7.5,2017
+F01379,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,1.75,6.7,2019
+F01380,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,1.34,5.6,2016
+F01381,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.85,6.0,2015
+F01382,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.43,5.9,2015
+F01383,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,3.22,6.5,2016
+F01384,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,3.23,6.4,2019
+F01385,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,1.3,5.9,2019
+F01386,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.65,6.5,2018
+F01387,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,3.77,9.3,2019
+F01388,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,0.93,6.9,2018
+F01389,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.36,9.4,2019
+F01390,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,1.82,6.6,2018
+F01391,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,1.94,9.3,2016
+F01392,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,5.73,6.8,2017
+F01393,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.95,7.5,2015
+F01394,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,4.6,6.5,2017
+F01395,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,0.79,5.6,2016
+F01396,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,3.72,6.6,2015
+F01397,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.96,7.2,2017
+F01398,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.45,5.8,2015
+F01399,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.23,8.6,2016
+F01400,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,4.83,7.5,2016
+F01401,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.19,6.3,2019
+F01402,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.24,6.4,2015
+F01403,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,1.93,7.7,2018
+F01404,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.58,6.5,2018
+F01405,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,1.47,17.5,2019
+F01406,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,1.29,18.8,2019
+F01407,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,7.7,18.4,2015
+F01408,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,3.3,17.5,2018
+F01409,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,5.51,19.8,2015
+F01410,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,6.65,22.0,2016
+F01411,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,1.09,18.9,2017
+F01412,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,4.13,18.4,2015
+F01413,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,1.17,19.1,2015
+F01414,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,3.31,16.9,2017
+F01415,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,2.49,18.0,2016
+F01416,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,2.94,19.8,2017
+F01417,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,3.26,19.9,2018
+F01418,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,1.02,16.9,2015
+F01419,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,2.2,17.9,2018
+F01420,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,4.21,17.7,2018
+F01421,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,4.76,17.6,2015
+F01422,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,1.25,18.2,2015
+F01423,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,1.44,19.3,2015
+F01424,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,4.48,18.3,2016
+F01425,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,1.75,17.1,2018
+F01426,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,4.51,18.5,2019
+F01427,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,3.9,16.6,2015
+F01428,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,1.96,17.9,2017
+F01429,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,6.32,26.0,2018
+F01430,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,3.14,26.5,2018
+F01431,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,2.7,28.4,2017
+F01432,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,1.72,25.2,2016
+F01433,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,1.84,27.4,2016
+F01434,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,3.95,25.0,2018
+F01435,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,2.28,25.3,2015
+F01436,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,7.05,25.4,2017
+F01437,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,1.91,25.9,2017
+F01438,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,12.0,25.2,2018
+F01439,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,1.54,25.1,2015
+F01440,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,6.17,26.4,2016
+F01441,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,2.71,26.0,2017
+F01442,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,10.65,25.2,2016
+F01443,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,1.23,27.5,2017
+F01444,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,3.21,26.6,2019
+F01445,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,3.15,25.5,2015
+F01446,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,1.81,25.2,2017
+F01447,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,5.89,28.0,2019
+F01448,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,3.87,27.1,2015
+F01449,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,4.27,25.1,2017
+F01450,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,2.91,25.0,2019
+F01451,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,2.91,26.7,2015
+F01452,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,2.03,27.9,2015
+F01453,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,5.28,26.9,2018
+F01454,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,1.5,28.4,2018
+F01455,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,1.91,25.1,2019
+F01456,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,3.33,29.4,2016
+F01457,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,1.82,26.3,2017
+F01458,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.22,24.3,2016
+F01459,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.05,22.1,2018
+F01460,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.28,22.3,2015
+F01461,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,5.18,24.3,2018
+F01462,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.41,23.7,2019
+F01463,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,1.49,23.8,2015
+F01464,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,1.43,22.1,2017
+F01465,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,1.76,23.0,2018
+F01466,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.9,23.4,2019
+F01467,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.0,24.2,2018
+F01468,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,1.75,22.8,2016
+F01469,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.09,25.5,2015
+F01470,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.27,24.5,2015
+F01471,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,1.49,23.0,2016
+F01472,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.98,22.1,2016
+F01473,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,1.22,23.4,2018
+F01474,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,3.47,22.6,2018
+F01475,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,6.75,23.8,2017
+F01476,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,8.12,22.5,2019
+F01477,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,1.42,23.3,2018
+F01478,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,1.1,23.0,2016
+F01479,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.67,22.5,2017
+F01480,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,4.95,27.1,2015
+F01481,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.46,23.6,2019
+F01482,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.2,22.0,2018
+F01483,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.22,23.2,2018
+F01484,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,1.99,22.2,2016
+F01485,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,1.47,21.7,2016
+F01486,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,3.79,22.8,2015
+F01487,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,1.52,20.0,2016
+F01488,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,2.47,23.6,2015
+F01489,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,4.39,20.0,2019
+F01490,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,9.72,20.0,2015
+F01491,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,1.91,22.0,2016
+F01492,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,4.72,21.7,2017
+F01493,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,2.16,22.5,2016
+F01494,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,1.87,22.6,2015
+F01495,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,2.02,20.7,2019
+F01496,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,3.02,20.6,2015
+F01497,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,1.78,20.1,2017
+F01498,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,2.16,20.2,2018
+F01499,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,1.46,21.2,2017
+F01500,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,2.35,20.4,2019
+F01501,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,1.39,22.4,2018
+F01502,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,2.82,20.4,2019
+F01503,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,6.3,21.5,2016
+F01504,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,2.47,20.4,2017
+F01505,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,1.99,22.3,2015
+F01506,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,3.84,20.7,2017
+F01507,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,4.14,20.6,2018
+F01508,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,1.54,22.7,2016
+F01509,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,3.5,21.4,2019
+F01510,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,1.55,24.3,2018
+F01511,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,2.75,22.9,2017
+F01512,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,1.87,23.3,2016
+F01513,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,6.06,26.0,2018
+F01514,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,1.85,25.1,2015
+F01515,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,2.87,24.0,2018
+F01516,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,1.47,24.1,2015
+F01517,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,2.33,25.0,2019
+F01518,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,1.47,24.7,2016
+F01519,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,3.71,25.1,2019
+F01520,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,2.72,26.1,2015
+F01521,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,0.68,25.8,2018
+F01522,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,4.06,24.9,2017
+F01523,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,3.41,24.3,2017
+F01524,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,4.96,24.8,2019
+F01525,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,1.11,24.6,2015
+F01526,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,3.32,25.6,2016
+F01527,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,1.9,24.2,2018
+F01528,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,1.3,26.1,2017
+F01529,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,1.74,25.5,2017
+F01530,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,3.3,29.2,2016
+F01531,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,1.14,24.8,2018
+F01532,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,6.24,24.4,2017
+F01533,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,3.22,25.2,2018
+F01534,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,1.91,24.0,2018
+F01535,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,3.85,26.3,2016
+F01536,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,4.33,26.9,2016
+F01537,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,1.95,25.3,2018
+F01538,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,3.08,24.3,2016
+F01539,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,2.14,26.6,2018
+F01540,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,2.51,25.0,2018
+F01541,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,1.77,28.2,2015
+F01542,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,2.97,5.2,2015
+F01543,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,3.72,5.2,2017
+F01544,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,1.77,7.0,2015
+F01545,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,2.31,6.0,2016
+F01546,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,1.87,8.8,2017
+F01547,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,2.88,4.8,2018
+F01548,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,1.17,4.9,2019
+F01549,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,3.01,5.1,2018
+F01550,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,4.95,5.9,2019
+F01551,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,3.23,5.5,2019
+F01552,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,6.23,4.8,2018
+F01553,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,1.26,5.3,2019
+F01554,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,3.68,9.0,2016
+F01555,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,2.13,4.8,2015
+F01556,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,3.46,6.3,2018
+F01557,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,2.1,8.0,2016
+F01558,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,3.57,7.0,2015
+F01559,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,4.8,8.1,2016
+F01560,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,1.74,5.4,2016
+F01561,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,2.07,7.6,2018
+F01562,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,8.04,7.6,2017
+F01563,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,2.42,6.0,2016
+F01564,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,2.12,6.0,2017
+F01565,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,2.28,5.6,2016
+F01566,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,4.91,7.0,2015
+F01567,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,2.93,5.8,2015
+F01568,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,3.94,5.8,2015
+F01569,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,2.77,7.3,2015
+F01570,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,5.55,6.2,2018
+F01571,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,5.07,14.7,2019
+F01572,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,2.38,15.3,2018
+F01573,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,2.01,14.9,2018
+F01574,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,4.17,14.3,2015
+F01575,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,3.38,15.2,2018
+F01576,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,1.48,16.1,2017
+F01577,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,1.23,14.0,2019
+F01578,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,1.07,13.7,2016
+F01579,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,1.84,15.2,2016
+F01580,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,1.57,12.7,2016
+F01581,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,1.58,14.5,2018
+F01582,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,2.21,13.1,2015
+F01583,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,1.39,13.0,2015
+F01584,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,1.11,12.7,2015
+F01585,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,4.84,14.6,2016
+F01586,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,3.95,13.6,2015
+F01587,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,1.87,13.3,2019
+F01588,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,1.86,13.6,2017
+F01589,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,4.18,17.1,2018
+F01590,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,1.08,14.3,2017
+F01591,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,2.74,13.3,2018
+F01592,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,2.79,13.0,2017
+F01593,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,2.88,13.6,2017
+F01594,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,3.97,15.0,2015
+F01595,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,1.7,14.0,2018
+F01596,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,2.36,19.7,2017
+F01597,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,5.6,20.7,2016
+F01598,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,1.94,20.7,2016
+F01599,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,5.94,21.3,2018
+F01600,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,2.14,21.7,2018
+F01601,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,2.65,19.5,2015
+F01602,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,4.33,22.0,2016
+F01603,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,10.15,19.1,2018
+F01604,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,1.61,19.9,2017
+F01605,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,5.49,18.7,2015
+F01606,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,1.53,20.1,2018
+F01607,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,3.06,20.4,2019
+F01608,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,2.36,19.1,2019
+F01609,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,2.15,22.4,2017
+F01610,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,2.34,20.2,2018
+F01611,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,2.94,19.3,2016
+F01612,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,2.24,21.0,2018
+F01613,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,2.88,19.2,2015
+F01614,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,2.33,19.3,2019
+F01615,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,1.91,19.2,2019
+F01616,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,1.33,20.4,2015
+F01617,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,1.73,19.2,2016
+F01618,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,1.61,26.1,2019
+F01619,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,0.95,24.5,2018
+F01620,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,4.74,25.9,2015
+F01621,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,1.01,25.8,2016
+F01622,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,6.57,27.3,2018
+F01623,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,3.96,26.2,2018
+F01624,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,3.28,25.6,2019
+F01625,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,1.39,24.9,2018
+F01626,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,2.07,27.5,2018
+F01627,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,5.12,25.5,2016
+F01628,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,2.11,26.8,2015
+F01629,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,1.47,25.1,2018
+F01630,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,1.92,28.1,2016
+F01631,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,8.3,27.6,2016
+F01632,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,1.29,25.6,2017
+F01633,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,3.8,24.5,2019
+F01634,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,5.47,27.2,2015
+F01635,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,5.31,26.4,2016
+F01636,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,2.48,27.6,2015
+F01637,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,6.43,24.7,2017
+F01638,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,0.76,26.5,2017
+F01639,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,2.75,26.8,2019
+F01640,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,5.88,24.9,2018
+F01641,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,1.75,25.3,2018
+F01642,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,1.51,25.7,2019
+F01643,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,2.17,26.4,2018
+F01644,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,4.63,25.9,2017
+F01645,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,7.29,23.8,2015
+F01646,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,2.25,25.2,2018
+F01647,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,2.86,23.3,2016
+F01648,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,0.88,24.4,2018
+F01649,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,3.69,25.1,2018
+F01650,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,2.07,24.9,2015
+F01651,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,1.84,25.6,2017
+F01652,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,1.97,27.8,2017
+F01653,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,1.59,24.2,2018
+F01654,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,8.55,25.2,2018
+F01655,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,2.54,24.4,2016
+F01656,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,1.57,23.5,2018
+F01657,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,2.61,24.7,2017
+F01658,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,5.09,24.2,2018
+F01659,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,9.48,26.1,2019
+F01660,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,1.53,26.4,2019
+F01661,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,2.9,26.4,2015
+F01662,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,1.84,23.1,2015
+F01663,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,1.94,24.2,2015
+F01664,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,1.66,23.4,2019
+F01665,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,1.81,24.0,2016
+F01666,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,2.18,25.5,2015
+F01667,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,1.79,25.6,2015
+F01668,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,4.19,24.1,2016
+F01669,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,6.35,21.0,2015
+F01670,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,3.26,20.5,2018
+F01671,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,1.37,23.3,2019
+F01672,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,3.81,20.9,2018
+F01673,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,1.62,20.4,2019
+F01674,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,2.15,22.5,2019
+F01675,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,1.47,19.6,2016
+F01676,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,2.79,20.1,2018
+F01677,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,2.27,23.0,2018
+F01678,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,2.55,21.5,2016
+F01679,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,3.7,19.8,2015
+F01680,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,2.36,22.5,2017
+F01681,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,1.05,20.9,2019
+F01682,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,0.61,19.5,2015
+F01683,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,2.28,20.2,2018
+F01684,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,3.56,19.5,2018
+F01685,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,2.04,20.2,2016
+F01686,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,2.37,21.9,2017
+F01687,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,2.68,20.2,2017
+F01688,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,3.48,19.3,2016
+F01689,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,1.4,21.9,2015
+F01690,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,0.72,20.2,2018
+F01691,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,3.72,21.5,2015
+F01692,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,2.2,11.9,2015
+F01693,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,1.94,12.4,2015
+F01694,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,2.31,10.9,2016
+F01695,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,0.99,9.9,2015
+F01696,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,1.98,11.5,2017
+F01697,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,3.87,10.8,2018
+F01698,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,1.33,10.1,2019
+F01699,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,3.66,12.8,2017
+F01700,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,3.32,11.0,2018
+F01701,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,3.22,13.3,2016
+F01702,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,3.31,10.8,2019
+F01703,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,2.43,12.4,2019
+F01704,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,2.29,10.1,2019
+F01705,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,1.91,10.7,2019
+F01706,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,2.77,13.5,2019
+F01707,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,0.84,11.4,2019
+F01708,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,2.62,10.1,2016
+F01709,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,4.7,10.3,2017
+F01710,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,3.3,11.5,2018
+F01711,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,2.14,12.1,2016
+F01712,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,1.17,10.7,2016
+F01713,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,4.61,11.2,2019
+F01714,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,2.48,10.0,2016
+F01715,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,2.42,10.9,2019
+F01716,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,2.51,20.1,2017
+F01717,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,3.97,21.7,2016
+F01718,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,3.27,20.0,2018
+F01719,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,1.72,23.2,2019
+F01720,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,4.64,23.6,2018
+F01721,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,3.23,20.6,2015
+F01722,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,2.8,20.7,2017
+F01723,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,5.55,20.1,2017
+F01724,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,12.0,21.1,2015
+F01725,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,1.44,20.2,2016
+F01726,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,2.13,21.5,2018
+F01727,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,0.94,20.8,2018
+F01728,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,2.33,25.2,2018
+F01729,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,4.25,21.7,2015
+F01730,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,2.52,20.8,2018
+F01731,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,1.36,20.9,2019
+F01732,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,3.48,21.7,2015
+F01733,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,2.41,20.3,2016
+F01734,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,7.7,20.0,2017
+F01735,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,4.54,20.5,2019
+F01736,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,0.72,20.0,2019
+F01737,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,4.04,21.4,2016
+F01738,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,0.6,9.9,2019
+F01739,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,3.54,9.4,2015
+F01740,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,1.87,8.5,2018
+F01741,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,1.64,10.3,2019
+F01742,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,1.72,8.1,2017
+F01743,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,4.14,8.7,2015
+F01744,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,1.94,9.0,2018
+F01745,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,2.82,10.2,2019
+F01746,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,3.02,9.7,2015
+F01747,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,2.84,9.4,2018
+F01748,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,1.45,8.3,2019
+F01749,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,5.01,8.0,2016
+F01750,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,3.66,10.2,2018
+F01751,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,3.66,11.2,2018
+F01752,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,1.66,8.3,2017
+F01753,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,3.36,13.0,2019
+F01754,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,1.26,11.1,2015
+F01755,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,5.57,8.6,2015
+F01756,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,2.26,9.1,2018
+F01757,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,1.66,10.9,2019
+F01758,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,1.92,10.7,2019
+F01759,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,1.59,8.1,2015
+F01760,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,1.28,9.7,2015
+F01761,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,4.53,9.2,2018
+F01762,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,3.98,20.5,2019
+F01763,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,1.68,17.8,2016
+F01764,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,3.29,18.0,2016
+F01765,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,4.73,20.4,2016
+F01766,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,1.73,21.0,2018
+F01767,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,1.03,19.1,2019
+F01768,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,4.4,18.6,2015
+F01769,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,2.75,19.4,2015
+F01770,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,1.86,18.7,2017
+F01771,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,4.49,18.5,2017
+F01772,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,3.47,19.3,2017
+F01773,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,0.82,17.8,2016
+F01774,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,2.99,18.1,2018
+F01775,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,3.78,19.4,2019
+F01776,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,3.15,18.8,2015
+F01777,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,1.06,22.5,2019
+F01778,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,2.11,19.5,2015
+F01779,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,2.97,17.7,2016
+F01780,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,3.83,18.6,2018
+F01781,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,3.28,18.4,2018
+F01782,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,9.72,18.0,2018
+F01783,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,1.41,23.2,2015
+F01784,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,1.93,9.1,2015
+F01785,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,1.7,9.5,2015
+F01786,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,3.55,10.2,2018
+F01787,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,3.14,7.8,2017
+F01788,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,7.74,12.3,2016
+F01789,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,4.96,9.0,2019
+F01790,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,1.81,9.1,2015
+F01791,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,2.41,9.7,2015
+F01792,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,3.48,11.8,2017
+F01793,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,1.64,8.6,2015
+F01794,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,1.61,9.5,2019
+F01795,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,5.72,10.2,2016
+F01796,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,3.02,8.9,2018
+F01797,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,12.0,9.5,2015
+F01798,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,9.85,8.4,2018
+F01799,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,2.02,8.5,2017
+F01800,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,2.63,9.4,2015
+F01801,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,3.46,8.8,2016
+F01802,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,1.04,8.6,2018
+F01803,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,6.61,9.3,2017
+F01804,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,1.34,12.2,2016
+F01805,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,2.2,8.9,2016
+F01806,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,2.21,7.9,2017
+F01807,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,2.53,8.6,2019
+F01808,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,3.96,8.4,2018
+F01809,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,5.1,11.7,2015
+F01810,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,2.2,9.7,2018
+F01811,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,3.23,12.4,2017
+F01812,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,0.74,12.6,2018
+F01813,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,2.1,13.7,2018
+F01814,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,5.34,12.3,2018
+F01815,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,1.42,12.7,2017
+F01816,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,1.31,15.3,2016
+F01817,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,1.05,14.2,2019
+F01818,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,3.49,12.3,2017
+F01819,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,1.44,14.7,2016
+F01820,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,0.77,13.6,2016
+F01821,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,2.05,14.5,2017
+F01822,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,2.44,12.7,2017
+F01823,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,0.88,12.0,2015
+F01824,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,3.81,12.4,2018
+F01825,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,5.57,13.5,2018
+F01826,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,1.84,12.9,2017
+F01827,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,1.42,12.7,2018
+F01828,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,1.43,13.4,2018
+F01829,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,4.57,12.0,2018
+F01830,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,1.87,12.4,2019
+F01831,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,4.01,13.9,2017
+F01832,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,7.32,14.0,2018
+F01833,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,2.08,20.5,2019
+F01834,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,3.33,24.4,2017
+F01835,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,4.02,22.8,2018
+F01836,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,4.45,19.5,2017
+F01837,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,2.21,21.3,2016
+F01838,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,5.15,21.4,2018
+F01839,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,2.43,20.7,2017
+F01840,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,1.31,20.1,2018
+F01841,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,1.74,23.4,2017
+F01842,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,2.26,19.4,2016
+F01843,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,1.91,23.1,2019
+F01844,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,1.87,21.5,2018
+F01845,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,2.7,20.4,2019
+F01846,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,2.47,22.3,2017
+F01847,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,2.81,22.9,2018
+F01848,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,3.31,19.7,2019
+F01849,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,2.47,21.4,2015
+F01850,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,2.94,20.0,2017
+F01851,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,5.25,19.9,2017
+F01852,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,10.59,19.9,2019
+F01853,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,5.44,21.7,2015
+F01854,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,2.89,19.9,2015
+F01855,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,5.03,21.1,2015
+F01856,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,3.63,21.4,2017
+F01857,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,1.19,19.4,2019
+F01858,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,2.02,21.6,2015
+F01859,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,2.47,20.0,2016
+F01860,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,1.69,19.4,2015
+F01861,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,2.9,7.0,2018
+F01862,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,3.49,5.9,2018
+F01863,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,3.13,6.8,2016
+F01864,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,0.97,7.4,2016
+F01865,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,4.01,6.4,2018
+F01866,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,1.71,7.5,2015
+F01867,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,1.4,5.6,2018
+F01868,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,3.93,6.9,2018
+F01869,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,2.52,6.5,2019
+F01870,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,2.69,5.9,2019
+F01871,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,8.45,9.9,2015
+F01872,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,2.07,6.5,2017
+F01873,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,1.69,7.5,2015
+F01874,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,8.15,7.9,2015
+F01875,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,3.48,5.7,2018
+F01876,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,2.76,6.0,2016
+F01877,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,1.91,5.8,2019
+F01878,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,1.95,6.8,2019
+F01879,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,1.33,7.4,2019
+F01880,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,5.33,7.2,2018
+F01881,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,2.23,6.0,2019
+F01882,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,2.53,7.7,2019
+F01883,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,4.49,7.4,2015
+F01884,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,2.29,6.4,2015
+F01885,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,7.34,6.6,2017
+F01886,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,7.22,25.4,2019
+F01887,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,5.03,24.9,2015
+F01888,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,1.33,25.5,2016
+F01889,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,5.03,27.5,2019
+F01890,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,3.51,27.4,2015
+F01891,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,2.84,25.6,2015
+F01892,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,2.88,29.5,2017
+F01893,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,1.84,26.5,2016
+F01894,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,3.24,26.1,2015
+F01895,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,5.14,27.9,2015
+F01896,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,2.51,28.1,2016
+F01897,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,1.45,27.1,2019
+F01898,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,1.2,28.1,2016
+F01899,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,7.75,26.6,2015
+F01900,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,1.24,26.0,2016
+F01901,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,1.97,26.8,2019
+F01902,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,3.0,25.0,2016
+F01903,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,1.99,25.2,2017
+F01904,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,1.08,26.9,2018
+F01905,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,2.74,25.5,2015
+F01906,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,1.4,25.8,2015
+F01907,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,3.29,25.5,2015
+F01908,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,2.99,25.2,2017
+F01909,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,9.52,28.9,2015
+F01910,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,1.66,30.5,2016
+F01911,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,2.89,11.6,2016
+F01912,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,7.26,14.6,2015
+F01913,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,2.17,10.5,2016
+F01914,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,1.54,13.4,2016
+F01915,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,3.1,11.3,2018
+F01916,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,5.3,11.8,2017
+F01917,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,0.92,12.4,2016
+F01918,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,1.31,10.8,2016
+F01919,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,2.7,14.3,2016
+F01920,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,2.13,12.9,2018
+F01921,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,2.17,11.6,2019
+F01922,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,3.34,10.9,2018
+F01923,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,10.19,13.6,2019
+F01924,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,3.13,13.3,2015
+F01925,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,3.93,10.5,2016
+F01926,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,3.02,14.0,2019
+F01927,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,1.9,12.7,2017
+F01928,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,4.59,11.4,2015
+F01929,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,1.81,11.2,2015
+F01930,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,6.38,11.0,2018
+F01931,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,1.87,11.5,2015
+F01932,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,2.8,11.8,2019
+F01933,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,1.65,16.4,2019
+F01934,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,2.56,14.4,2015
+F01935,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,4.93,13.3,2015
+F01936,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,3.81,11.3,2018
+F01937,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,2.55,13.5,2016
+F01938,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,1.21,10.7,2017
+F01939,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,3.51,10.6,2018
+F01940,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,1.66,18.5,2016
+F01941,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,4.35,21.8,2019
+F01942,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,2.27,18.5,2018
+F01943,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,1.61,17.4,2019
+F01944,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,1.88,19.1,2016
+F01945,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,1.06,18.6,2015
+F01946,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,2.54,21.3,2017
+F01947,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,3.53,19.0,2017
+F01948,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,2.68,18.4,2019
+F01949,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,2.22,19.1,2019
+F01950,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,1.99,19.5,2016
+F01951,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,4.53,18.5,2019
+F01952,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,2.59,17.2,2017
+F01953,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,1.71,18.9,2017
+F01954,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,2.03,17.4,2018
+F01955,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,5.33,20.7,2019
+F01956,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,6.14,17.7,2016
+F01957,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,1.39,17.9,2016
+F01958,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,1.38,18.1,2017
+F01959,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,1.95,19.1,2015
+F01960,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,0.82,17.7,2015
+F01961,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,3.92,17.4,2017
+F01962,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,2.47,17.6,2017
+F01963,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,2.71,18.8,2017
+F01964,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,1.3,19.4,2019
+F01965,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,1.34,17.5,2016
+F01966,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,5.85,18.1,2018
+F01967,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,2.13,7.6,2018
+F01968,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,1.26,8.3,2018
+F01969,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,1.99,10.1,2018
+F01970,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,1.89,8.3,2018
+F01971,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,2.91,8.0,2017
+F01972,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,1.48,9.7,2017
+F01973,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,3.18,9.2,2016
+F01974,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,1.58,8.2,2018
+F01975,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,2.15,7.9,2017
+F01976,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,2.66,10.0,2019
+F01977,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,2.49,8.6,2017
+F01978,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,4.55,8.2,2016
+F01979,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,1.53,8.4,2016
+F01980,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,2.82,7.8,2017
+F01981,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,1.41,11.3,2017
+F01982,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,2.77,8.4,2015
+F01983,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,2.9,12.4,2018
+F01984,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,2.9,9.2,2016
+F01985,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,3.75,9.6,2018
+F01986,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,3.15,7.9,2015
+F01987,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,7.21,9.5,2019
+F01988,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,6.05,8.9,2016
+F01989,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,1.72,8.3,2018
+F01990,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,4.67,21.8,2017
+F01991,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,2.28,21.2,2019
+F01992,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,1.58,22.6,2015
+F01993,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,2.58,19.7,2018
+F01994,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,3.0,19.6,2015
+F01995,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,4.76,23.8,2017
+F01996,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,3.02,21.1,2016
+F01997,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,0.78,20.1,2016
+F01998,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,4.81,21.4,2017
+F01999,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,1.53,20.7,2018
+F02000,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,0.82,21.1,2018
+F02001,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,2.24,19.3,2017
+F02002,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,1.38,22.4,2015
+F02003,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,3.68,21.9,2016
+F02004,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,3.67,21.6,2019
+F02005,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,2.85,20.1,2015
+F02006,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,6.14,20.2,2018
+F02007,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,3.41,21.1,2018
+F02008,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,1.4,19.3,2015
+F02009,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,2.28,20.0,2018
+F02010,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,1.49,19.8,2016
+F02011,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,1.19,21.6,2018
+F02012,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,2.59,5.6,2015
+F02013,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,2.01,5.0,2019
+F02014,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,2.15,6.3,2019
+F02015,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,3.15,5.7,2017
+F02016,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,2.45,4.3,2018
+F02017,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,1.89,6.1,2016
+F02018,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,4.4,4.8,2019
+F02019,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,5.33,7.2,2018
+F02020,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,5.82,6.5,2019
+F02021,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,3.33,5.6,2018
+F02022,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,3.9,5.6,2018
+F02023,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,0.6,8.1,2015
+F02024,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,2.41,6.1,2016
+F02025,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,2.42,5.3,2018
+F02026,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,2.17,6.2,2018
+F02027,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,1.16,4.9,2019
+F02028,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,6.26,6.0,2019
+F02029,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,2.06,5.3,2016
+F02030,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,1.47,4.8,2017
+F02031,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,2.44,4.9,2018
+F02032,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,0.71,5.3,2018
+F02033,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,2.34,4.4,2018
+F02034,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,6.35,14.0,2016
+F02035,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,3.84,14.6,2017
+F02036,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,3.63,14.8,2019
+F02037,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,1.41,15.1,2015
+F02038,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,4.8,14.5,2018
+F02039,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,1.65,18.0,2018
+F02040,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,2.41,14.8,2019
+F02041,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,1.33,14.0,2019
+F02042,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,1.5,13.9,2019
+F02043,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,1.73,14.2,2017
+F02044,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,4.75,16.3,2019
+F02045,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,2.49,13.8,2015
+F02046,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,2.86,14.7,2015
+F02047,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,1.88,15.4,2017
+F02048,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,4.44,15.5,2017
+F02049,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,2.63,13.7,2017
+F02050,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,2.38,13.8,2017
+F02051,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,1.8,15.0,2016
+F02052,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,2.83,14.4,2019
+F02053,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,1.31,14.3,2015
+F02054,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,6.92,14.8,2016
+F02055,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,2.35,17.5,2015
+F02056,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,4.56,15.1,2017
+F02057,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,2.04,16.3,2018
+F02058,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,1.09,14.5,2017
+F02059,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,1.32,15.6,2019
+F02060,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,7.17,17.8,2016
+F02061,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,2.83,15.6,2019
+F02062,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,3.38,14.3,2016
+F02063,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,2.27,6.9,2017
+F02064,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,4.58,8.2,2016
+F02065,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,6.45,10.9,2019
+F02066,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,1.48,6.9,2017
+F02067,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,2.05,8.2,2015
+F02068,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,2.09,8.4,2016
+F02069,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,6.24,9.0,2017
+F02070,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,3.39,8.9,2019
+F02071,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,4.86,9.1,2015
+F02072,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,10.17,9.3,2019
+F02073,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,2.24,6.5,2018
+F02074,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,2.34,6.6,2019
+F02075,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,1.85,8.0,2015
+F02076,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,2.96,11.6,2017
+F02077,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,4.8,7.4,2016
+F02078,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,1.26,7.0,2015
+F02079,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,1.66,6.9,2019
+F02080,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,1.34,7.6,2016
+F02081,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,1.32,8.2,2015
+F02082,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,3.05,9.5,2015
+F02083,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,2.49,7.6,2015
+F02084,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,7.2,7.3,2015
+F02085,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,5.74,6.7,2019
+F02086,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,0.87,8.9,2015
+F02087,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,2.89,6.6,2018
+F02088,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,2.74,8.1,2019
+F02089,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,2.57,7.7,2019
+F02090,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,2.04,11.9,2017
+F02091,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,3.13,8.3,2019
+F02092,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,2.03,9.3,2017
+F02093,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,1.42,10.6,2018
+F02094,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,4.26,8.4,2017
+F02095,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,7.73,9.5,2018
+F02096,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,0.75,11.2,2016
+F02097,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,3.67,10.7,2019
+F02098,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,2.55,8.4,2015
+F02099,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,3.0,10.9,2016
+F02100,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,2.27,12.1,2017
+F02101,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,2.65,10.4,2015
+F02102,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,2.06,11.7,2017
+F02103,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,2.2,10.3,2017
+F02104,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,0.77,9.3,2019
+F02105,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,1.75,8.1,2019
+F02106,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,2.62,9.1,2019
+F02107,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,2.64,9.7,2017
+F02108,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,4.33,10.3,2018
+F02109,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,3.92,11.2,2016
+F02110,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,3.48,9.3,2018
+F02111,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,5.54,10.8,2018
+F02112,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,3.5,8.6,2017
+F02113,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,3.46,23.9,2018
+F02114,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,6.57,23.7,2015
+F02115,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,1.79,21.6,2018
+F02116,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,7.63,22.6,2016
+F02117,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,3.21,23.2,2016
+F02118,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,3.44,23.9,2016
+F02119,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,5.84,21.5,2017
+F02120,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,1.71,22.0,2017
+F02121,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,3.03,21.1,2016
+F02122,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,1.4,22.7,2015
+F02123,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,2.1,23.3,2018
+F02124,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,2.42,22.2,2019
+F02125,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,1.77,22.5,2015
+F02126,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,2.96,22.5,2018
+F02127,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,1.85,22.8,2018
+F02128,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,4.39,23.4,2015
+F02129,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,3.82,23.5,2019
+F02130,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,7.55,21.6,2019
+F02131,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,2.87,23.8,2016
+F02132,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,7.11,22.0,2015
+F02133,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,2.06,22.2,2018
+F02134,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,2.22,24.2,2015
+F02135,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,1.6,22.1,2019
+F02136,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,5.59,9.3,2018
+F02137,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,2.93,9.1,2017
+F02138,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,1.54,10.8,2015
+F02139,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,5.23,8.2,2018
+F02140,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,3.44,10.0,2018
+F02141,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,2.48,7.6,2019
+F02142,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,5.15,7.3,2015
+F02143,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,2.91,7.1,2015
+F02144,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,2.35,7.4,2015
+F02145,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,5.28,7.2,2015
+F02146,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,1.58,10.0,2017
+F02147,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,3.29,9.7,2016
+F02148,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,1.4,8.3,2019
+F02149,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,3.12,7.7,2019
+F02150,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,3.37,10.0,2017
+F02151,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,2.16,9.9,2016
+F02152,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,3.23,7.5,2016
+F02153,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,4.04,9.2,2017
+F02154,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,3.52,7.1,2015
+F02155,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,3.02,7.9,2019
+F02156,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,2.74,9.8,2015
+F02157,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,4.08,8.7,2019
+F02158,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,4.66,7.2,2016
+F02159,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,3.23,7.5,2017
+F02160,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,2.4,10.0,2015
+F02161,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,7.38,9.6,2017
+F02162,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,1.23,7.9,2019
+F02163,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,2.43,8.9,2017
+F02164,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,3.63,8.8,2018
+F02165,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,0.84,20.3,2018
+F02166,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,2.02,20.6,2017
+F02167,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,4.31,21.6,2018
+F02168,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,9.06,20.0,2016
+F02169,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,2.32,22.9,2019
+F02170,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,2.72,20.2,2015
+F02171,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,3.43,20.9,2018
+F02172,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,1.46,21.5,2016
+F02173,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,3.0,20.5,2015
+F02174,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,1.43,22.1,2019
+F02175,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,1.37,21.2,2019
+F02176,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,1.89,20.0,2019
+F02177,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,1.66,19.7,2017
+F02178,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,4.04,23.1,2016
+F02179,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,2.28,20.9,2017
+F02180,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,1.65,21.2,2017
+F02181,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,3.26,19.8,2018
+F02182,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,3.74,20.3,2019
+F02183,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,2.35,19.9,2016
+F02184,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,4.68,19.7,2017
+F02185,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,2.82,20.8,2017
+F02186,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,1.3,20.7,2015
+F02187,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,8.58,20.0,2018
+F02188,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,5.99,21.4,2017
+F02189,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,3.18,20.3,2016
+F02190,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,3.02,19.7,2017
+F02191,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,3.27,22.9,2019
+F02192,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,1.42,20.8,2015
+F02193,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,3.18,18.0,2017
+F02194,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,1.92,19.8,2015
+F02195,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,1.94,17.9,2019
+F02196,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,4.66,18.4,2016
+F02197,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,1.51,18.4,2015
+F02198,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,3.84,20.9,2018
+F02199,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,2.54,18.6,2016
+F02200,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,6.3,19.1,2018
+F02201,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,3.02,19.6,2019
+F02202,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,5.82,22.7,2019
+F02203,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,9.45,20.3,2017
+F02204,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,1.1,18.6,2018
+F02205,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,1.6,18.5,2015
+F02206,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,1.6,20.1,2019
+F02207,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,2.46,19.5,2016
+F02208,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,1.36,18.2,2018
+F02209,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,4.48,20.4,2019
+F02210,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,2.33,18.0,2016
+F02211,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,1.43,18.3,2019
+F02212,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,2.98,17.9,2018
+F02213,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,2.23,17.9,2018
+F02214,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,2.62,20.8,2019
+F02215,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,2.63,18.9,2017
+F02216,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,2.67,20.5,2015
+F02217,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,4.75,18.8,2015
+F02218,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,1.2,21.5,2018
+F02219,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,2.91,19.7,2019
+F02220,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,4.51,14.1,2019
+F02221,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,3.31,12.4,2019
+F02222,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,2.38,14.7,2019
+F02223,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,2.01,17.5,2019
+F02224,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,2.96,14.1,2019
+F02225,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,4.28,19.4,2019
+F02226,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,2.1,9.9,2019
+F02227,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,1.96,18.5,2019
+F02228,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,3.86,12.4,2019
+F02229,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,1.25,19.4,2019
+F02230,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,1.99,19.7,2019
+F02231,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,2.77,14.0,2019
+F02232,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,1.98,23.4,2019
+F02233,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,2.18,14.7,2019
+F02234,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,0.87,21.4,2019
+F02235,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,4.7,6.5,2019
+F02236,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,3.3,21.0,2019
+F02237,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,6.71,7.1,2019
+F02238,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,3.25,9.9,2019
+F02239,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,4.48,9.1,2019
+F02240,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,2.4,6.5,2019
+F02241,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,5.96,7.1,2019
+F02242,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,5.18,12.4,2019
+F02243,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,3.56,7.6,2019
+F02244,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,4.61,18.3,2019
+F02245,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,7.51,26.0,2019
+F02246,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,3.11,24.3,2019
+F02247,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,1.82,20.5,2019
+F02248,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.63,7.1,2019
+F02249,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,4.02,7.6,2019
+F02250,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,3.78,18.5,2019
+F02251,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,2.44,11.9,2019
+F02252,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,3.15,14.1,2019
+F02253,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,1.95,23.9,2019
+F02254,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,2.63,20.3,2019
+F02255,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.29,9.5,2019
+F02256,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,1.62,21.7,2019
+F02257,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,3.53,20.3,2019
+F02258,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,1.67,20.3,2019
+F02259,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,4.87,21.8,2019
+F02260,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,1.1,7.1,2019
+F02261,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,4.68,14.1,2019
+F02262,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,2.63,23.8,2019
+F02263,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.42,9.5,2019
+F02264,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,1.32,21.7,2019
+F02265,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,3.27,20.3,2019
+F02266,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,4.64,21.0,2019
+F02267,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,1.56,11.6,2019
+F02268,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,2.68,20.1,2019
+F02269,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,1.06,17.5,2019
+F02270,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,4.45,17.5,2019
+F02271,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,2.31,26.0,2019
+F02272,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,4.67,20.3,2019
+F02273,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,1.96,19.7,2019
+F02274,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,0.92,12.4,2019
+F02275,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,1.59,11.6,2019
+F02276,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,2.41,14.1,2019
+F02277,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,0.93,17.5,2019
+F02278,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,3.23,21.0,2019
+F02279,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.52,9.5,2019
+F02280,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,1.9,9.9,2019
+F02281,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,4.25,21.7,2019
+F02282,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,1.12,25.4,2019
+F02283,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,3.3,11.9,2019
+F02284,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,3.45,11.6,2019
+F02285,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,1.47,9.9,2019
+F02286,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,1.86,17.5,2019
+F02287,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,1.98,17.5,2019
+F02288,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,3.71,20.5,2019
+F02289,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,1.78,20.1,2019
+F02290,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,3.18,20.5,2019
+F02291,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,5.02,14.7,2019
+F02292,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,4.98,9.9,2019
+F02293,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,2.88,14.0,2019
+F02294,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,4.65,7.1,2019
+F02295,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.56,7.1,2019
+F02296,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,2.65,17.5,2019
+F02297,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,4.28,14.7,2020
+F02298,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,4.64,14.0,2020
+F02299,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,2.38,18.3,2020
+F02300,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,0.83,24.3,2020
+F02301,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,1.76,21.8,2020
+F02302,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,2.39,19.7,2020
+F02303,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,1.95,10.2,2020
+F02304,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,4.6,7.0,2020
+F02305,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,3.39,21.4,2020
+F02306,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,1.19,9.2,2020
+F02307,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,3.27,26.0,2020
+F02308,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,2.5,18.0,2020
+F02309,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,2.35,18.3,2020
+F02310,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,3.14,12.4,2020
+F02311,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,4.62,21.7,2020
+F02312,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,2.74,7.0,2020
+F02313,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,3.48,25.4,2020
+F02314,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,5.1,21.7,2020
+F02315,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,1.77,23.4,2020
+F02316,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,2.13,9.3,2020
+F02317,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,4.82,7.1,2020
+F02318,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,2.25,26.0,2020
+F02319,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,3.41,26.1,2020
+F02320,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,2.48,7.6,2020
+F02321,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,2.23,6.9,2020
+F02322,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,4.44,10.1,2020
+F02323,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,0.87,26.1,2020
+F02324,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,2.41,18.3,2020
+F02325,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,3.8,12.4,2020
+F02326,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,5.52,11.6,2020
+F02327,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,2.44,6.5,2020
+F02328,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,9.12,26.0,2020
+F02329,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,1.88,9.5,2020
+F02330,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,3.59,23.8,2020
+F02331,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,2.16,23.9,2020
+F02332,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,1.73,11.9,2020
+F02333,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,1.35,14.1,2020
+F02334,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,3.29,5.6,2020
+F02335,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,2.3,23.9,2020
+F02336,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,1.96,7.0,2020
+F02337,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,4.13,18.3,2020
+F02338,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,3.62,20.5,2020
+F02339,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,3.28,21.7,2020
+F02340,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,6.04,7.0,2020
+F02341,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,1.18,7.6,2020
+F02342,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,1.81,18.5,2020
+F02343,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,1.77,19.7,2020
+F02344,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,2.54,9.1,2020
+F02345,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,1.29,9.1,2020
+F02346,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,1.32,21.7,2020
+F02347,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,1.68,23.4,2020
+F02348,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,3.41,14.0,2020
+F02349,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,8.07,7.0,2020
+F02350,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,6.72,20.3,2020
+F02351,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,1.82,20.5,2020
+F02352,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,2.34,9.3,2020
+F02353,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,1.71,18.3,2020
+F02354,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,3.27,7.0,2020
+F02355,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,2.73,21.4,2020
+F02356,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,3.63,20.3,2020
+F02357,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,2.05,10.1,2020
+F02358,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,3.11,20.1,2020
+F02359,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,3.09,10.2,2020
+F02360,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,4.13,11.6,2020
+F02361,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,1.1,14.1,2020
+F02362,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,3.87,14.7,2020
+F02363,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,5.75,26.0,2020
+F02364,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,3.64,11.9,2020
+F02365,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,1.38,9.3,2020
+F02366,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,7.4,7.0,2020
+F02367,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,1.95,20.3,2020
+F02368,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,4.15,20.3,2020
+F02369,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.5,24.3,2020
+F02370,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,1.22,24.3,2020
+F02371,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,2.45,9.2,2020
+F02372,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,4.54,9.5,2020
+F02373,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,10.08,14.7,2020
+F02374,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,2.55,26.1,2021
+F02375,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,1.3,14.1,2021
+F02376,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,3.3,25.4,2021
+F02377,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,2.16,25.4,2021
+F02378,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.07,24.3,2021
+F02379,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,2.78,26.0,2021
+F02380,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,1.57,7.6,2021
+F02381,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,1.66,6.5,2021
+F02382,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,3.1,23.4,2021
+F02383,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,1.52,23.9,2021
+F02384,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,1.19,7.6,2021
+F02385,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,3.72,21.7,2021
+F02386,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,2.65,9.3,2021
+F02387,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,1.58,20.1,2021
+F02388,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.71,7.1,2021
+F02389,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,1.16,26.1,2021
+F02390,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,0.95,21.4,2021
+F02391,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,3.82,21.0,2021
+F02392,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,3.41,17.5,2021
+F02393,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,3.42,9.5,2021
+F02394,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,4.39,18.5,2021
+F02395,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,4.48,23.8,2021
+F02396,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,0.93,26.0,2021
+F02397,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,1.25,14.7,2021
+F02398,Bajna,Ratlam,Madhya Pradesh,BRD-RTL,23.5084,75.2526,1.16,6.9,2021
+F02399,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,4.26,20.5,2021
+F02400,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,3.2,5.2,2021
+F02401,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,1.67,18.0,2021
+F02402,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,3.31,20.1,2021
+F02403,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,2.89,23.9,2021
+F02404,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,1.23,19.4,2021
+F02405,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,2.87,17.5,2021
+F02406,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,7.48,21.8,2021
+F02407,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,3.08,23.4,2021
+F02408,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,3.57,10.1,2021
+F02409,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,4.52,26.1,2021
+F02410,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,1.47,21.8,2021
+F02411,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,9.95,20.5,2021
+F02412,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,5.36,5.6,2021
+F02413,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,2.62,26.1,2021
+F02414,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,1.99,20.3,2021
+F02415,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,3.85,20.1,2021
+F02416,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,2.2,18.5,2021
+F02417,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,2.87,14.7,2021
+F02418,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,1.72,10.1,2021
+F02419,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,1.68,18.5,2021
+F02420,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,4.78,9.2,2021
+F02421,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,1.87,7.0,2021
+F02422,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,1.93,5.6,2021
+F02423,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.35,24.3,2021
+F02424,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,3.54,21.7,2021
+F02425,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,1.91,9.2,2021
+F02426,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,3.72,6.5,2021
+F02427,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,2.05,23.4,2021
+F02428,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,4.03,11.6,2021
+F02429,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,3.82,18.5,2021
+F02430,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,2.05,9.3,2021
+F02431,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,3.99,20.3,2021
+F02432,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,1.62,7.6,2021
+F02433,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,2.91,12.4,2021
+F02434,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,4.44,17.5,2021
+F02435,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,2.6,10.1,2021
+F02436,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,2.31,14.7,2021
+F02437,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,1.37,11.9,2021
+F02438,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,4.37,23.4,2021
+F02439,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,8.05,10.1,2021
+F02440,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,2.75,18.5,2021
+F02441,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,2.05,14.7,2021
+F02442,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,4.42,5.2,2021
+F02443,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,4.25,9.1,2021
+F02444,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,1.29,11.9,2021
+F02445,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,5.05,5.6,2021
+F02446,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,4.22,25.4,2021
+F02447,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,1.46,7.6,2021
+F02448,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,4.41,10.1,2021
+F02449,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,3.49,11.9,2021
+F02450,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,2.33,19.7,2021
+F02451,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,4.74,14.1,2021
+F02452,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,2.91,14.1,2021
+F02453,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,2.04,7.6,2021
+F02454,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,0.99,9.5,2021
+F02455,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,1.34,21.4,2022
+F02456,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,1.09,23.9,2022
+F02457,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,4.01,26.0,2022
+F02458,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.65,24.3,2022
+F02459,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,1.33,7.1,2022
+F02460,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,1.35,9.3,2022
+F02461,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,4.49,14.7,2022
+F02462,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,3.74,26.0,2022
+F02463,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,2.76,10.1,2022
+F02464,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,1.65,18.0,2022
+F02465,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,3.35,5.6,2022
+F02466,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,2.89,9.1,2022
+F02467,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,6.24,26.0,2022
+F02468,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,1.77,20.5,2022
+F02469,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,2.35,26.1,2022
+F02470,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,2.08,23.4,2022
+F02471,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,2.42,20.3,2022
+F02472,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,3.41,5.2,2022
+F02473,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,1.94,25.4,2022
+F02474,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,2.43,14.0,2022
+F02475,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,1.39,7.0,2022
+F02476,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,7.09,11.9,2022
+F02477,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,3.48,11.6,2022
+F02478,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,6.64,14.0,2022
+F02479,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,3.04,19.4,2022
+F02480,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,8.12,18.0,2022
+F02481,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,3.56,20.5,2022
+F02482,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,4.78,20.3,2022
+F02483,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,2.61,19.7,2022
+F02484,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,2.51,14.0,2022
+F02485,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,2.98,21.4,2022
+F02486,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,8.08,20.3,2022
+F02487,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,4.54,23.8,2022
+F02488,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,3.95,25.4,2022
+F02489,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,4.05,20.3,2022
+F02490,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,5.83,20.1,2022
+F02491,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,2.04,10.2,2022
+F02492,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,3.27,11.9,2022
+F02493,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,5.89,19.4,2022
+F02494,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,3.16,21.7,2022
+F02495,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,1.95,26.0,2022
+F02496,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,3.99,26.0,2022
+F02497,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,1.41,14.7,2022
+F02498,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,1.89,23.8,2022
+F02499,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.1,7.1,2022
+F02500,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,5.78,14.7,2022
+F02501,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,2.44,26.0,2022
+F02502,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,1.34,26.1,2022
+F02503,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,4.25,7.1,2022
+F02504,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,2.54,9.1,2022
+F02505,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,2.06,23.9,2022
+F02506,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,1.98,26.0,2022
+F02507,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,3.14,11.9,2022
+F02508,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,2.55,17.5,2022
+F02509,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,2.58,20.3,2022
+F02510,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,2.1,7.6,2022
+F02511,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,3.82,6.5,2022
+F02512,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,1.87,9.5,2022
+F02513,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,11.27,18.5,2022
+F02514,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,3.25,20.3,2022
+F02515,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,2.76,5.2,2022
+F02516,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,2.22,18.3,2022
+F02517,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,3.64,26.0,2022
+F02518,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,3.13,9.3,2022
+F02519,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,2.43,21.8,2022
+F02520,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,1.51,19.7,2022
+F02521,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,2.15,20.3,2022
+F02522,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,3.91,26.0,2022
+F02523,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,3.43,21.8,2022
+F02524,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,2.75,12.4,2022
+F02525,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,3.21,14.1,2022
+F02526,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,2.41,10.2,2022
+F02527,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,1.97,9.9,2022
+F02528,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,3.75,24.3,2022
+F02529,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,1.09,20.1,2022
+F02530,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,3.5,21.4,2022
+F02531,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,3.82,9.2,2022
+F02532,Padegaon,Aurangabad,Maharashtra,BRD-AUR,19.8646,75.3922,1.2,14.7,2023
+F02533,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,0.6,11.9,2023
+F02534,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,2.01,9.1,2023
+F02535,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,2.93,21.7,2023
+F02536,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,4.61,9.5,2023
+F02537,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,3.71,10.2,2023
+F02538,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,2.39,12.4,2023
+F02539,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,6.96,7.0,2023
+F02540,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,2.57,14.7,2023
+F02541,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.26,24.3,2023
+F02542,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,8.49,7.6,2023
+F02543,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,2.27,9.9,2023
+F02544,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,2.9,14.1,2023
+F02545,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,2.43,19.7,2023
+F02546,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,2.16,14.0,2023
+F02547,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,4.21,20.3,2023
+F02548,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,1.76,25.4,2023
+F02549,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,0.95,9.3,2023
+F02550,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,3.56,11.9,2023
+F02551,Satwas,Dewas,Madhya Pradesh,BRD-DWS,22.9474,76.0965,3.6,21.8,2023
+F02552,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,1.54,21.7,2023
+F02553,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,2.23,10.2,2023
+F02554,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,1.34,7.1,2023
+F02555,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,4.43,11.6,2023
+F02556,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,3.28,10.2,2023
+F02557,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,1.87,5.6,2023
+F02558,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,1.22,19.7,2023
+F02559,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,9.06,17.5,2023
+F02560,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,4.09,24.3,2023
+F02561,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,1.42,5.6,2023
+F02562,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,8.12,7.6,2023
+F02563,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,1.86,7.1,2023
+F02564,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,4.97,9.2,2023
+F02565,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,2.78,20.1,2023
+F02566,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,3.38,5.6,2023
+F02567,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,7.43,20.5,2023
+F02568,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,2.3,12.4,2023
+F02569,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,3.15,9.1,2023
+F02570,Vadki,Yavatmal,Maharashtra,BRD-YTM,20.257,77.9854,2.51,19.4,2023
+F02571,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,2.17,20.5,2023
+F02572,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,1.19,26.1,2023
+F02573,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,1.4,20.3,2023
+F02574,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,2.46,26.0,2023
+F02575,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,3.24,10.2,2023
+F02576,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,3.42,23.8,2023
+F02577,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,3.19,9.9,2023
+F02578,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,2.75,18.3,2023
+F02579,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,4.12,9.9,2023
+F02580,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,2.62,17.5,2023
+F02581,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,3.84,18.3,2023
+F02582,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,2.9,14.7,2023
+F02583,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,5.55,21.0,2023
+F02584,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,3.02,26.1,2023
+F02585,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.97,9.5,2023
+F02586,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,2.53,9.2,2023
+F02587,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,2.18,20.3,2023
+F02588,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,4.9,20.3,2023
+F02589,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.12,7.1,2023
+F02590,Wadner,Amravati,Maharashtra,BRD-AMT,21.0341,77.7566,2.36,14.1,2023
+F02591,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,1.67,23.8,2023
+F02592,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,2.94,21.0,2023
+F02593,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,3.5,20.3,2023
+F02594,Khedgaon,Nashik,Maharashtra,BRD-NSK,20.2495,74.0184,1.58,17.5,2023
+F02595,Chandur K,Yavatmal,Maharashtra,BRD-YTM,19.8037,78.3451,2.04,20.3,2023
+F02596,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,2.64,20.1,2023
+F02597,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,2.7,23.8,2023
+F02598,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,3.19,20.5,2023
+F02599,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,4.99,9.9,2023
+F02600,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,3.77,7.6,2023
+F02601,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,4.11,21.4,2023
+F02602,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,2.04,11.9,2023
+F02603,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,2.15,9.3,2023
+F02604,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,3.0,18.0,2023
+F02605,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.03,9.5,2023
+F02606,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,4.56,21.7,2023
+F02607,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,3.33,14.0,2023
+F02608,Jaora,Ratlam,Madhya Pradesh,BRD-RTL,23.0742,74.8316,1.32,11.9,2023
+F02609,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,1.69,21.7,2023
+F02610,Karmad,Aurangabad,Maharashtra,BRD-AUR,19.9297,75.4488,3.94,5.2,2023
+F02611,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,2.13,14.1,2024
+F02612,Khachrod,Ujjain,Madhya Pradesh,BRD-UJN,23.4075,75.7683,2.62,9.1,2024
+F02613,Barnagar,Ujjain,Madhya Pradesh,BRD-UJN,23.2867,75.7948,2.66,20.5,2024
+F02614,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,2.41,10.2,2024
+F02615,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,2.99,7.6,2024
+F02616,Bagli,Dewas,Madhya Pradesh,BRD-DWS,22.9642,75.93,1.35,11.6,2024
+F02617,Dhanora,Amravati,Maharashtra,BRD-AMT,21.2014,77.8497,3.18,6.5,2024
+F02618,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,0.92,23.9,2024
+F02619,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,1.83,21.4,2024
+F02620,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,1.63,9.3,2024
+F02621,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,1.32,12.4,2024
+F02622,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,3.73,14.1,2024
+F02623,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,2.61,7.6,2024
+F02624,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.54,9.5,2024
+F02625,Kampel,Indore,Madhya Pradesh,BRD-IND,22.6452,76.1081,0.98,21.0,2024
+F02626,Fulsungi,Amravati,Maharashtra,BRD-AMT,21.0492,77.7296,1.9,26.0,2024
+F02627,Udaynagar,Dewas,Madhya Pradesh,BRD-DWS,23.015,75.8311,2.5,14.0,2024
+F02628,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,0.87,21.7,2024
+F02629,Sailana,Ratlam,Madhya Pradesh,BRD-RTL,23.1496,75.2334,3.26,20.3,2024
+F02630,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,5.11,18.0,2024
+F02631,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,1.06,9.9,2024
+F02632,Palkhed,Nashik,Maharashtra,BRD-NSK,19.9121,73.9102,2.47,9.2,2024
+F02633,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.35,9.5,2024
+F02634,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,2.74,24.3,2024
+F02635,Hiwra,Aurangabad,Maharashtra,BRD-AUR,20.1305,75.2991,2.33,21.7,2024
+F02636,Ambodi,Yavatmal,Maharashtra,BRD-YTM,19.879,78.3297,1.37,23.4,2024
+F02637,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,2.99,17.5,2024
+F02638,Ozar,Nashik,Maharashtra,BRD-NSK,20.1937,73.533,4.41,10.1,2024
+F02639,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,2.34,26.0,2024
+F02640,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,5.35,7.6,2024
+F02641,Dabha,Yavatmal,Maharashtra,BRD-YTM,20.291,77.9688,4.08,17.5,2024
+F02642,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,1.94,26.0,2024
+F02643,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,6.34,26.0,2024
+F02644,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,2.7,9.3,2024
+F02645,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,3.93,14.7,2024
+F02646,Sanwer,Indore,Madhya Pradesh,BRD-IND,22.8361,75.9942,2.34,20.1,2024
+F02647,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,1.26,9.3,2024
+F02648,Shahapur,Aurangabad,Maharashtra,BRD-AUR,19.8895,75.0629,1.28,19.7,2024
+F02649,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,2.54,12.4,2024
+F02650,Chikhali,Amravati,Maharashtra,BRD-AMT,20.7079,77.8272,1.5,14.1,2024
+F02651,Harsola,Indore,Madhya Pradesh,BRD-IND,22.4845,75.8069,3.38,23.8,2024
+F02652,Ghatia,Ujjain,Madhya Pradesh,BRD-UJN,23.0902,75.9178,4.26,25.4,2024
+F02653,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,1.54,12.4,2024
+F02654,Kannod,Dewas,Madhya Pradesh,BRD-DWS,23.2309,76.1393,0.6,18.5,2024
+F02655,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,2.62,20.5,2024
+F02656,Eklara,Amravati,Maharashtra,BRD-AMT,20.7114,77.6833,2.07,18.3,2024
+F02657,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,4.03,9.3,2024
+F02658,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,3.87,26.0,2024
+F02659,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,0.83,12.4,2024
+F02660,Piploda,Ratlam,Madhya Pradesh,BRD-RTL,23.1876,75.1093,1.85,9.3,2024
+F02661,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,1.48,9.5,2024
+F02662,Tal,Ratlam,Madhya Pradesh,BRD-RTL,23.1424,75.3049,3.59,18.0,2024
+F02663,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,4.09,26.1,2024
+F02664,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,2.49,9.5,2024
+F02665,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,2.37,9.9,2024
+F02666,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,2.46,26.0,2024
+F02667,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,0.94,10.2,2024
+F02668,Nagda,Ujjain,Madhya Pradesh,BRD-UJN,22.9689,75.6487,1.68,12.4,2024
+F02669,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,1.69,5.6,2024
+F02670,Dindori,Nashik,Maharashtra,BRD-NSK,20.0963,73.6085,2.96,10.2,2024
+F02671,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,12.0,26.1,2024
+F02672,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,3.68,26.0,2024
+F02673,Borgaon,Amravati,Maharashtra,BRD-AMT,20.7194,77.5809,1.05,21.4,2024
+F02674,Garkheda,Aurangabad,Maharashtra,BRD-AUR,19.6329,75.5597,5.06,24.3,2024
+F02675,Jatwada,Aurangabad,Maharashtra,BRD-AUR,19.9206,75.0815,2.67,26.0,2024
+F02676,Sonkatch,Dewas,Madhya Pradesh,BRD-DWS,22.8715,75.9875,6.26,5.6,2024
+F02677,Titrod,Ujjain,Madhya Pradesh,BRD-UJN,23.3841,75.7786,6.21,7.0,2024
+F02678,Mangliya,Indore,Madhya Pradesh,BRD-IND,22.795,76.0785,3.18,11.9,2024
+F02679,Pardi,Yavatmal,Maharashtra,BRD-YTM,20.2618,78.0294,8.65,14.7,2024
+F02680,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,5.66,26.0,2024
+F02681,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,5.74,23.9,2024
+F02682,Vani,Nashik,Maharashtra,BRD-NSK,20.178,73.8491,2.24,7.1,2024
+F02683,Bicholi,Indore,Madhya Pradesh,BRD-IND,22.45,75.8249,0.72,26.1,2024
+F02684,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,1.5,23.9,2024
+F02685,Sakarda,Yavatmal,Maharashtra,BRD-YTM,20.3367,77.8716,1.87,9.5,2024
+F02686,Depalpur,Indore,Madhya Pradesh,BRD-IND,22.6682,76.0947,11.06,9.9,2024
+F02687,Khategaon,Dewas,Madhya Pradesh,BRD-DWS,22.9402,76.2985,1.82,7.6,2024
+F02688,Unhel,Ujjain,Madhya Pradesh,BRD-UJN,23.3393,75.8667,7.9,20.5,2024
+F02689,Namli,Ratlam,Madhya Pradesh,BRD-RTL,23.5949,74.8121,3.2,23.9,2024
+F02690,Sirsam,Nashik,Maharashtra,BRD-NSK,19.7978,73.9837,1.01,26.0,2024
